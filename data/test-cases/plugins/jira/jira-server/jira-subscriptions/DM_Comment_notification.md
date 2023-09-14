@@ -1,11 +1,10 @@
 # (Required) Ensure all values are filled up
 name: "Mention comment notification in DM"
 status: Active
-priority: High
-folder: Jira V3
+priority: Medium
+folder: Jira subscriptions
 authors: "@AayushChaudhary0001"
-team_ownership: 
-[]
+team_ownership: []
 priority_p1_to_p4: P2 - Core Functions (Do core functions work?)
 
 # (Optional)
