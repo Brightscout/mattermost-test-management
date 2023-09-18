@@ -35,7 +35,7 @@ steps_hashed: null
 
 1. Go to the connected Jira instance.
 2. Open the desired ticket on Jira board.
-3. Mention the desired user in the comments.
+3. Mention the desired user whose username contains ''@" in the comments.
 4. Go back to the connected MM server.
 
 **Expected**
