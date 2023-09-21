@@ -35,7 +35,7 @@ steps_hashed: null
 **Step 1**
 
 1. Provide the authtoken(in postman) of the user to whom the Todo is assigned.
-2. Provide the id(mandatory field) of the Todo from the list of the user to whom the ToDo is aasigned.
+2. Provide the id(mandatory field) of the Todo from the list of the users to whom the ToDo is assigned.
 
 **Expected**
 
