@@ -1,5 +1,5 @@
 # (Required) Ensure all values are filled up
-name: "Delete ToDo"
+name: "Bump Todo"
 status: Active
 priority: Normal
 folder: ToDo
@@ -34,9 +34,9 @@ steps_hashed: null
 
 **Step 1**
 
-1. Provide the correct authtoken of the user.
-2. Fill the mandatory ID field correctly.
+1. Provide the authtoken(in postman) of the user to whom the Todo is assigned.
+2. Provide the id(mandatory field) of the ToDo from the list of the user to whom the Todo is aasigned.
 
 **Expected**
 
-The desired ToDo should get deleted.
+The desired Todo should get accepted.

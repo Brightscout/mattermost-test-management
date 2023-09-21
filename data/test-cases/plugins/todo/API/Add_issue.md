@@ -1,5 +1,5 @@
 # (Required) Ensure all values are filled up
-name: "Complete ToDo"
+name: "Add Todo"
 status: Active
 priority: Normal
 folder: ToDo
@@ -34,9 +34,9 @@ steps_hashed: null
 
 **Step 1**
 
-1. Provide the correct authtoken of the correct user.
-2. Provide the correct id of the ToDo comment.
+1. Fill all the mandatory fields of the API body.
+2. Provide the correct authtoken of the user(in postman).
 
 **Expected**
 
-The ToDo comment should get completed and should not be visible in the ToDo list afterwards.
+The desired Todo should get created.

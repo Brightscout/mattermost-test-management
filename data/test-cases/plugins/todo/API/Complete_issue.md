@@ -1,5 +1,5 @@
 # (Required) Ensure all values are filled up
-name: "Edit ToDo"
+name: "Complete Todo"
 status: Active
 priority: Normal
 folder: ToDo
@@ -34,10 +34,9 @@ steps_hashed: null
 
 **Step 1**
 
-1. Provide the id of the desired ToDo.
-2. Enter the desired changes in message and description field.
-3. Provide the correct authtoken of the user.
+1. Provide the correct authtoken(in Postman) of the correct user.
+2. Provide the correct id(mndatory field) of the Todo comment.
 
 **Expected**
 
-The desired ToDo should get created.
+The ToDo comment should get completed and should not be visible in the Todo list afterwards.

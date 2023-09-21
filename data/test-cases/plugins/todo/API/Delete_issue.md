@@ -1,5 +1,5 @@
 # (Required) Ensure all values are filled up
-name: "Accept ToDo"
+name: "Delete Todo"
 status: Active
 priority: Normal
 folder: ToDo
@@ -34,9 +34,9 @@ steps_hashed: null
 
 **Step 1**
 
-1. Provide the authtoken of the user to whom the ToDo is assigned.
-2. Provide the id of the ToDo from the list of the user to whom the ToDo is aasigned.
+1. Provide the correct authtoken(in postman) of the user.
+2. Fill the mandatory ID field correctly.
 
 **Expected**
 
-The desired ToDo should get accepted.
+The desired ToDo should get deleted.

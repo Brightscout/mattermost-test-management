@@ -1,5 +1,5 @@
 # (Required) Ensure all values are filled up
-name: "Accept ToDo"
+name: "Edit Todo"
 status: Active
 priority: Normal
 folder: ToDo
@@ -34,9 +34,10 @@ steps_hashed: null
 
 **Step 1**
 
-1. Provide the authtoken of the user to whom the ToDo is assigned.
-2. Provide the id of the ToDo from the list of the user to whom the ToDo is aasigned.
+1. Provide the id(mandatory field) of the desired Todo.
+2. Enter the desired changes in message and description field(mandatory fields).
+3. Provide the correct authtoken(in postman) of the user.
 
 **Expected**
 
-The desired ToDo should get accepted.
+The desired Todo should get created.

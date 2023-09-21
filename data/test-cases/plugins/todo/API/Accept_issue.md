@@ -1,5 +1,5 @@
 # (Required) Ensure all values are filled up
-name: "Add ToDo"
+name: "Accept Todo"
 status: Active
 priority: Normal
 folder: ToDo
@@ -34,9 +34,9 @@ steps_hashed: null
 
 **Step 1**
 
-1. Fill all the mandatory fields of the body.
-2. Provide the correct authtoken of the user.
+1. Provide the authtoken(in postman) of the user to whom the Todo is assigned.
+2. Provide the id(mandatory field) of the Todo from the list of the user to whom the ToDo is aasigned.
 
 **Expected**
 
-The desired ToDo should get created.
+The desired Todo should get accepted.

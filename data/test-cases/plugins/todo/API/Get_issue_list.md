@@ -1,5 +1,5 @@
 # (Required) Ensure all values are filled up
-name: "Get ToDo list"
+name: "Get Todo list"
 status: Active
 priority: Normal
 folder: ToDo
@@ -34,9 +34,9 @@ steps_hashed: null
 
 **Step 1**
 
-1. Provide the correct authtoken of the user.
-2. Select the params for the ToDo list(in/out).
+1. Provide the correct authtoken(in postman) of the user.
+2. Select the params for the Todo list(in/out).
 
 **Expected**
 
-The ToDo list should be presented to the user.
+The Todo list should be presented to the user.
