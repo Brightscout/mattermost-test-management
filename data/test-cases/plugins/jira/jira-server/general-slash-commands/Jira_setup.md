@@ -33,9 +33,8 @@ steps_hashed: null
 
 **Step 1**
 
-Run the /jira setup slash command.
+Write the /jira setup slash command.
 
 **Expected**
 
 The setup command should be visible in the autocomplete list.
-
