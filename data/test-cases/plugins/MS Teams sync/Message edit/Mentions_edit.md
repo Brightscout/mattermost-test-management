@@ -1,6 +1,6 @@
 ---
 # (Required) Ensure all values are filled up
-name: "Editing mentioned user from MM to Teams adn Teams to MM"
+name: "Editing mentioned user from MM to Teams and Teams to MM"
 status: Active
 priority: Normal
 folder: Message edit
