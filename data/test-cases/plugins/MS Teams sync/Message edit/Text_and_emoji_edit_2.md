@@ -36,7 +36,7 @@ steps_hashed: null
 **Step 1**
 
 1. Enter any text/emoji on Teams channel(already linked) or DM/GM.
-2. Edit the message on the same Teams channel(already linked) or DM/GM with any other text meesage/emoji.
+2. Edit the message on the same Teams channel(already linked) or DM/GM with any other text message/emoji.
 
 **Expected**
 
