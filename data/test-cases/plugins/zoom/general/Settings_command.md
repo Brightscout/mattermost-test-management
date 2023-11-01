@@ -43,7 +43,7 @@ steps_hashed: null
 
 **Step 3**
 
-1. Run the "Zoom start<meeting topic>" slash command.
+1. Run the "/zoom start<meeting topic>" slash command.
 
 **Expected**
 
