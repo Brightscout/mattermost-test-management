@@ -33,7 +33,7 @@ case_hashed: null
 steps_hashed: null
 ---
 
-**Step 1**Change Folder Name
+**Step 1**
 
 1. Start a zoom meeting.
 2. Edit the message presented to the users to join the meeting once the meeting is started.
