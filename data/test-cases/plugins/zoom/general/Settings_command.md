@@ -47,4 +47,4 @@ steps_hashed: null
 
 **Expected**
 
-The user should receive the custom post asking for approval of using the account ot start a meeting after step 1. After step 2, the custom post should get freezed containing the latest response selected by the user. After step 3, the plugin should provide the response according to the latest response selected by the user.
+The user should receive the custom post asking for approval to use the account to start a meeting after step 1. After step 2, the custom post should get frozen containing the latest response selected by the user. After step 3, the plugin should provide the response according to the latest response selected by the user.
