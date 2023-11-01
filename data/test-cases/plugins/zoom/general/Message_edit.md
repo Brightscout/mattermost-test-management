@@ -1,10 +1,10 @@
 ---
 # (Required) Ensure all values are filled up
-name: "Change Test Title"
+name: "Edit the message after starting the meeting"
 status: Active
 priority: Normal
-folder: Change Folder Name
-authors: "@change_required"
+folder: general
+authors: "@AayushChaudhary0001"
 team_ownership: 
 - Change Team Name
 priority_p1_to_p4: P2 - Core Functions (Do core functions work?)
@@ -33,7 +33,7 @@ case_hashed: null
 steps_hashed: null
 ---
 
-**Step 1**
+**Step 1**Change Folder Name
 
 1. Start a zoom meeting.
 2. Edit the message presented to the users to join the meeting once the meeting is started.
