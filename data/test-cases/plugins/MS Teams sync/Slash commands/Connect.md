@@ -35,7 +35,7 @@ steps_hashed: null
 
 **Step 1**
 
-1. Run the "/msteams connect" command.
+1. Run the `/msteams-sync connect` command.
 2. Click on the link provided.
 3. Enter the valid credentials.
 
