@@ -35,12 +35,12 @@ steps_hashed: null
 
 **Step 1**
 
-1. Run the "/msteams show" command in the desired MM channel.
+1. Run the "/msteams-sync show" command in the desired MM channel.
 
 **Step 2**
 
-1. Run the "/msteams show" command in the desired MM channel when the channel is not linked already.
+1. Run the "/msteams-sync show" command in the desired MM channel when the channel is not linked already.
 
 **Expected**
 
-The user should be presented with the teams channel linked with the channel in which the user is present. On step 2, the user should be presented with a message that link doesn't exist.
+The user should be presented with the Teams team name and channel name linked to the Mattermost channel in which the user is present. in step 2, the user should be presented with a message that the link doesn't exist.

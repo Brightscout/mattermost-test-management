@@ -35,10 +35,10 @@ steps_hashed: null
 
 **Step 1**
 
-1. Run the "/msteams connect-bot" command.
+1. Run the "/msteams-sync connect-bot" command.
 2. Click on the link provided.
 3. Enter the valid credentials.
 
 **Expected**
 
-The user should be to connect the bot account to the desired Teams account.
+The user should be able to connect the bot account to the desired Teams account.

@@ -35,12 +35,12 @@ steps_hashed: null
 
 **Step 1**
 
-1. Run the "/msteams disconnect" command.
+1. Run the "/msteams-sync disconnect" command.
 
 **Step 2**
 
-1. Run the "/msteams disconnect" command when the user is already disconnected.
+1. Run the "/msteams-sync disconnect" command when the user is already disconnected.
 
 **Expected**
 
-The user should receive a message that the user is not connected to the MS Teams account. Also, on step 2, the user should receive an error message that the user is not connected to any MS Teams account.
+The user should receive a message that the user account has been disconnected. Also, on step 2, the user should receive an error message that the user is not connected to any MS Teams account.

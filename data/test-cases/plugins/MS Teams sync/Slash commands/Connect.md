@@ -41,8 +41,8 @@ steps_hashed: null
 
 **Step 2**
 
-1. Run the "/msteams connect" command when the user is already connected.
+1. Run the "/msteams-sync connect" command when the user is already connected.
 
 **Expected**
 
-The user should be logged in to MS Teams and and receive a message of connection in a new window. After step 2, the user should not be able to connect new user and should receive a message that the user is already connected.
+The user should get logged in to MS Teams and receive a message of successful connection in a new window. After step 2, the user should not be able to connect and should receive a message that the user is already connected.

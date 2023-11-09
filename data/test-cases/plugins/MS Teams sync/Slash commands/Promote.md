@@ -35,13 +35,13 @@ steps_hashed: null
 
 **Step 1**
 
-1. Run the "/msteams promote <MM_username> <new_username>" command in the desired MM channel by sysytem admin account.
+1. Run the "/msteams-sync promote <MM_username> <new_username>" command in the desired MM channel by the sysytem admin account.
 
 **Step 2**
 
-1. Run the "/msteams promote <MM_username> <new_username>" command in the desired MM channel by system admin account.
+1. Run the "/msteams-sync promote <MM_username> <new_username>" command in the desired MM channel by the system admin account.
 2. The user to be promoted(whose MM username will be provided) should be already promoted.
 
 **Expected**
 
-The user should be promoted to a normal user with the new assigned username. On step 2, the user should be returned an erroe message that the desired user was not found.
+The user should be promoted to a normal user with the new assigned username. On step 2, the user should be returned an error message that the desired user was not found.

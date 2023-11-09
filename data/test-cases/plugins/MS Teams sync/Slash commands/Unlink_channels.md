@@ -35,11 +35,11 @@ steps_hashed: null
 
 **Step 1**
 
-1. Run the "/msteams unlink" command in the MM channel which is already linked.
+1. Run the "/msteams-sync unlink" command in the MM channel which is already linked.
 
 **Step 2**
 
-1. Run the "/msteams unlink" command in the MM channel which is not already linked.
+1. Run the "/msteams-sync unlink" command in the MM channel which is not already linked.
 
 **Expected**
 
