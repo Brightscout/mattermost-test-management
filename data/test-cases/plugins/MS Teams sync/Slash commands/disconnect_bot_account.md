@@ -35,7 +35,7 @@ steps_hashed: null
 
 **Step 1**
 
-1. Run the "/msteams-sync disconnect-bot" command.
+1. Run the `/msteams-sync disconnect-bot` command.
 
 **Expected**
 

@@ -35,11 +35,11 @@ steps_hashed: null
 
 **Step 1**
 
-1. Run the "/msteams-sync disconnect" command.
+1. Run the `/msteams-sync disconnec` command.
 
 **Step 2**
 
-1. Run the "/msteams-sync disconnect" command when the user is already disconnected.
+1. Run the `/msteams-sync disconnect` command when the user is already disconnected.
 
 **Expected**
 

@@ -35,12 +35,12 @@ steps_hashed: null
 
 **Step 1**
 
-1. Run the "/msteams-sync show-links" command in the desired MM channel through system admin account.
+1. Run the `/msteams-sync show-links` command in the desired MM channel through system admin account.
 
 **Step 2**
 
-1. Run the "/msteams-sync show-links" command in the desired MM channel through system admin account when no channel is linked.
+1. Run the `/msteams-sync show-links` command in the desired MM channel through system admin account when no channel is linked.
 
 **Expected**
 
-The user should be presented with a list of the all the Mattermost channels connected of MM to Teams. On step 2, the user should be presented with a message that no links are present.
+The user should be presented with a list of all the Mattermost channels connected to Teams. On step 2, the user should be presented with a message that no links are present.

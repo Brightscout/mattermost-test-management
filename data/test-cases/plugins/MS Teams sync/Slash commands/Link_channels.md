@@ -35,11 +35,11 @@ steps_hashed: null
 
 **Step 1**
 
-1. Run the "/msteams-sync link <msteams-teams-id> <msteams-channel-id>" command in the desired MM channel.
+1. Run the `/msteams-sync link <msteams-teams-id> <msteams-channel-id>` command in the desired MM channel by the account of system admin.
 
 **Step 2**
 
-1. Run the "/msteams-sync link <msteams-teams-id> <msteams-channel-id>" when the desired channel is already connected.
+1. Run the `/msteams-sync link <msteams-teams-id> <msteams-channel-id>` when the desired channel is already connected by the account of system admin.
 
 **Expected**
 

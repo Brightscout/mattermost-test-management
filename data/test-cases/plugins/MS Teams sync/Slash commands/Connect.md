@@ -41,7 +41,7 @@ steps_hashed: null
 
 **Step 2**
 
-1. Run the "/msteams-sync connect" command when the user is already connected.
+1. Run the `/msteams-sync connect` command when the user is already connected.
 
 **Expected**
 
