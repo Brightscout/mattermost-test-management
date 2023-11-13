@@ -45,5 +45,4 @@ steps_hashed: null
 
 **Expected**
 
-The same message should also get deleted from the linked channel on MM. After step 2, the message should be presented to the user in the linked channel in MM.
-
+The same message should also be deleted from the linked channel on MM. After step 2, the message should reappear to the user in the linked channel in MM.

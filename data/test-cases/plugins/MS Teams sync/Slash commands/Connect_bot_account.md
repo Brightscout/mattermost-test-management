@@ -1,6 +1,6 @@
 ---
 # (Required) Ensure all values are filled up
-name: "Message sync from MM to Teams"
+name: "Connect-bot slash command"
 status: Active
 priority: Normal
 folder: Slash commands
@@ -35,8 +35,10 @@ steps_hashed: null
 
 **Step 1**
 
-1. Enter any text message, emoji, GiF, link, image, etc. in the already linked channel in MM or in any DM/GM.
+1. Run the "/msteams-sync connect-bot" command.
+2. Click on the link provided.
+3. Enter the valid credentials.
 
 **Expected**
 
-The same message posted on MM should be visible on the linked channel in Teams or DM/GM.
+The user should be able to connect the bot account to the desired Teams account.

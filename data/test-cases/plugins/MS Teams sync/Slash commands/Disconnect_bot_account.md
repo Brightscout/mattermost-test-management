@@ -1,6 +1,6 @@
 ---
 # (Required) Ensure all values are filled up
-name: "Message sync from MM to Teams"
+name: "Disconnect-bot account slash command"
 status: Active
 priority: Normal
 folder: Slash commands
@@ -35,8 +35,8 @@ steps_hashed: null
 
 **Step 1**
 
-1. Enter any text message, emoji, GiF, link, image, etc. in the already linked channel in MM or in any DM/GM.
+1. Run the "/msteams-sync disconnect-bot" command.
 
 **Expected**
 
-The same message posted on MM should be visible on the linked channel in Teams or DM/GM.
+The user should be able to disconnect the bot account from the connected account on Teams.
