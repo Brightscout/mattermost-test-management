@@ -3,7 +3,7 @@
 name: "Message deleted from Teams to MM"
 status: Active
 priority: Normal
-folder: Slash commands
+folder: Message sync
 authors: "@AayushChaudhary0001"
 team_ownership: 
 - Change Team Name
@@ -35,13 +35,13 @@ steps_hashed: null
 
 **Step 1**
 
-1. Delete the desired message from the linked channel in Teams.
-2. Go back to the linked channel in MM.
+1. Delete the desired message from the linked channel or DM/GM in Teams.
+2. Go back to the linked channel or DM/GM in MM.
 
 **Step 2**
 
 1. After completing step 1, click on the undo option in Teams presented to the user.
-2. Go back to the linked channel in MM and refresh the page.
+2. Go back to the linked channel or DM/GM in MM and refresh the page.
 
 **Expected**
 

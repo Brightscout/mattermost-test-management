@@ -3,7 +3,7 @@
 name: "Message sync from Teams to MM"
 status: Active
 priority: Normal
-folder: Slash commands
+folder: Message sync
 authors: "@AayushChaudhary0001"
 team_ownership: 
 - Change Team Name

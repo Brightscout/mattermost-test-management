@@ -3,7 +3,7 @@
 name: "Message from non-connected user"
 status: Active
 priority: Normal
-folder: Slash commands
+folder: Message sync
 authors: "@AayushChaudhary0001"
 team_ownership: 
 - Change Team Name
@@ -44,4 +44,4 @@ steps_hashed: null
 
 **Expected**
 
-The message should not be reflected on the linked Teams channel. After step 2, the message should be reflected by the bot account the original user's name in the message in the linked channel in Teams.
+The message should not be reflected on the linked Teams channel. After step 2, the message should be reflected by the bot account with the original user's name in the message in the linked channel in Teams.
