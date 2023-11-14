@@ -35,8 +35,8 @@ steps_hashed: null
 
 **Step 1**
 
-1. Enter any text message, emoji, GiF, link, image in the already linked channel in Teams or in any DM/GM.
+1. Enter any text message, emoji, GiF, link, image, etc. in the already linked channel in Teams or in any DM/GM.
 
 **Expected**
 
-The same message posted on MM should be visible on the linked channel in MM or DM/GM.
+The same message posted on Teams should be visible in the linked channel in MM or DM/GM.

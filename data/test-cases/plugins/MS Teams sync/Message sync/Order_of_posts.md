@@ -43,4 +43,4 @@ steps_hashed: null
 
 **Expected**
 
-The messages should be synced from MM to Teams in the correct order as delivered already. After step 2, the messages should be synced from Teams to MM in the correct order as delivered already.
+The messages should be synced from MM to Teams in the correct order, as delivered already. After step 2, the messages should be synced from Teams to MM in the correct order, as delivered already.
