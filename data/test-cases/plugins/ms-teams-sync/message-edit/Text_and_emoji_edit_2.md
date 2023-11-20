@@ -1,6 +1,6 @@
 ---
 # (Required) Ensure all values are filled up
-name: "Editing text and emoji from MS Teamsto MM"
+name: "Editing text and emoji from MS Teams to MM"
 status: Active
 priority: Normal
 folder: Message edit
