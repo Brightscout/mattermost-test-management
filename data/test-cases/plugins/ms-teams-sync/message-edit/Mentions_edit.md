@@ -1,6 +1,6 @@
 ---
 # (Required) Ensure all values are filled up
-name: "Editing mentioned user from MM to Teams adn Teams to MM"
+name: "Editing mentioned user from MM to MS Teamsand MS Teamsto MM"
 status: Active
 priority: Normal
 folder: Message edit
@@ -45,4 +45,4 @@ steps_hashed: null
 
 **Expected**
 
-The desired message should be edited and desired user should be mentioned in the new message in Teams. Also in step 2, the desired message should be edited and desired user should be mentioned in the new message in MM.
+The desired message should be edited and the updated user should be mentioned in the edited message in Teams. Also in step 2, the desired message should be edited and the updated user should be mentioned in the edited message in MM.
