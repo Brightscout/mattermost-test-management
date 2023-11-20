@@ -1,6 +1,6 @@
 ---
 # (Required) Ensure all values are filled up
-name: "Editing text and emoji from MM to Teams"
+name: "Editing text and emoji from Teams to MM"
 status: Active
 priority: Normal
 folder: Message edit
@@ -35,9 +35,9 @@ steps_hashed: null
 
 **Step 1**
 
-1. Enter any text/emoji on MM channel(already linked) or DM/GM.
-2. Edit the message on the same MM channel(already linked) or DM/GM with any other text message/emoji.
+1. Enter any text/emoji on Teams channel(already linked) or DM/GM.
+2. Edit the message on the same Teams channel(already linked) or DM/GM with any other text meesage/emoji.
 
 **Expected**
 
-The desired message should be edited and updated on the Teams side as well.
+The desired message shoiuld be edited and get updated on the MM side as well.

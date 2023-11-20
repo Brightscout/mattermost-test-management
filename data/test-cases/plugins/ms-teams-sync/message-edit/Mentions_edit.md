@@ -1,6 +1,6 @@
 ---
 # (Required) Ensure all values are filled up
-name: "Editing text and emoji from Teams to MM"
+name: "Editing mentioned user from MM to Teams adn Teams to MM"
 status: Active
 priority: Normal
 folder: Message edit
@@ -35,9 +35,14 @@ steps_hashed: null
 
 **Step 1**
 
-1. Enter any text/emoji on Teams channel(already linked) or DM/GM.
-2. Edit the message on the same Teams channel(already linked) or DM/GM with any other text message/emoji.
+1. Enter any message in a channel(already linked) or in DM/GM by mentioning any user in MM.
+2. Edit the mentioned user and mention any other user.
+
+**Step 2**
+
+1. Enter any message in a channel(already linked) or in DM/GM by mentioning any user in Teams.
+2. Edit the mentioned user and mention any other user.
 
 **Expected**
 
-The desired message should be edited and updated on the MM side as well.
+The desired message should be edited and desired user should be mentioned in the new message in Teams. Also in step 2, the desired message should be edited and desired user should be mentioned in the new message in MM.
