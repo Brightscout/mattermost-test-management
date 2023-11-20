@@ -1,6 +1,6 @@
 ---
 # (Required) Ensure all values are filled up
-name: "Show clash command"
+name: "Show slash command"
 status: Active
 priority: Normal
 folder: Slash commands
@@ -39,8 +39,8 @@ steps_hashed: null
 
 **Step 2**
 
-1. Run the `/msteams-sync show` command in the desired MM channel when the channel is not linked already.
+1. Run the `/msteams-sync show` command in the desired MM channel when the channel is not linked.
 
 **Expected**
 
-The user should be presented with the Teams team name and channel name linked to the Mattermost channel in which the user is present. In step 2, the user should be presented with a message that the link doesn't exist.
+The user should be presented with the MS Teams team name and channel name linked to the Mattermost channel in which the user is present. In step 2, the user should be presented with a message that the link doesn't exist.

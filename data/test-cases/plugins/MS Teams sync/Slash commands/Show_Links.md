@@ -43,4 +43,4 @@ steps_hashed: null
 
 **Expected**
 
-The user should be presented with a list of all the Mattermost channels connected to Teams. On step 2, the user should be presented with a message that no links are present.
+The user should be presented with a list of all the Mattermost channels linked to MS Teams. On step 2, the user should be presented with a message that no links are present.

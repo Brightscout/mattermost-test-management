@@ -35,7 +35,7 @@ steps_hashed: null
 
 **Step 1**
 
-1. Run the `/msteams-sync disconnec` command.
+1. Run the `/msteams-sync disconnect` command.
 
 **Step 2**
 

@@ -1,6 +1,6 @@
 ---
 # (Required) Ensure all values are filled up
-name: "Unlink channel command"
+name: "Unlink channel slash command"
 status: Active
 priority: Normal
 folder: Slash commands
@@ -35,12 +35,12 @@ steps_hashed: null
 
 **Step 1**
 
-1. Run the `/msteams-sync unlink` command in the MM channel which is already linked.
+1. Run the `/msteams-sync unlink` command in a MM channel that is already linked.
 
 **Step 2**
 
-1. Run the `/msteams-sync unlink` command in the MM channel which is not already linked.
+1. Run the `/msteams-sync unlink` command in a MM channel that is not already linked.
 
 **Expected**
 
-The user should be able to unlink the already linked MM channel from the linked Teams channel. On step 2, the user should receive a message that this MM channel is not linked to any MS Teams channel.
+The user should be able to unlink the linked MM channel from the MS Teams channel. On step 2, the user should receive a message that this MM channel is not linked to any MS Teams channel.

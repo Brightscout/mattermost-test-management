@@ -35,12 +35,12 @@ steps_hashed: null
 
 **Step 1**
 
-1. Run the `/msteams-sync promote <MM_username> <new_username>` command in the desired MM channel by the sytem admin account.
+1. Run the `/msteams-sync promote <MM_username> <new_username>` command in any channel or DM/GM by the system admin account.
 
 **Step 2**
 
-1. Run the `/msteams-sync promote <MM_username> <new_username>` command in the desired MM channel by the system admin account.
-2. The user to be promoted(whose MM username will be provided) should be already promoted.
+1. The user to be promoted(whose MM username will be provided) should be already promoted.
+2. Run the `/msteams-sync promote <MM_username> <new_username>` command in any channel or DM/GM by the system admin account.
 
 **Expected**
 
