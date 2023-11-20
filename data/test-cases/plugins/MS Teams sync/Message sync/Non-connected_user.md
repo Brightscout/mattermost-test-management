@@ -35,13 +35,13 @@ steps_hashed: null
 
 **Step 1**
 
-1. Enter the desired message in the already linked MM channel from the non-connected account.
+1. Enter the desired message a already linked MM channel from a non-connected account.
 
 **Step 2**
 
 1. Connect the bot-account.
-2. Enter the desired message in the already linked MM channel by the account which is not already connected.
+2. Enter the desired message a already linked MM channel by the account which is not already connected.
 
 **Expected**
 
-The message should not be reflected on the linked Teams channel. After step 2, the message should be reflected by the bot account with the original user's name in the message in the linked channel in Teams.
+The message should not be reflected on the linked MS Teams channel. After step 2, the message should be reflected by the bot account with the original user's name in the message in the linked channel in MS Teams.

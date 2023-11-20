@@ -1,6 +1,6 @@
 ---
 # (Required) Ensure all values are filled up
-name: "Order of posts from Teams to MM"
+name: "Order of posts from MS Teams to MM"
 status: Active
 priority: Normal
 folder: Message sync
@@ -35,8 +35,8 @@ steps_hashed: null
 
 **Step 1**
 
-1. Enter multiple messages in the linked channel or in DM/GM in Teams.
+1. Enter multiple messages in the linked channel or in DM/GM in MS Teams.
 
 **Expected**
 
-The messages should be delivered on MM in the same order as they were sent on Teams.
+The messages should be delivered on MM in the same order as they were sent on MS Teams.

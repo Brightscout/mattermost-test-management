@@ -1,6 +1,6 @@
 ---
 # (Required) Ensure all values are filled up
-name: "Message sync from Teams to MM"
+name: "Message sync from MS Teams to MM"
 status: Active
 priority: Normal
 folder: Message sync
@@ -35,8 +35,8 @@ steps_hashed: null
 
 **Step 1**
 
-1. Enter any text message, emoji, GiF, link, image, etc. in the already linked channel in Teams or in any DM/GM.
+1. Enter any text message, emoji, GIF, link, image, etc. a already linked channel or in any DM/GM in MS Teams.
 
 **Expected**
 
-The same message posted on Teams should be visible in the linked channel in MM or DM/GM.
+The same message posted on MS Teams should be visible in the linked channel in MM or DM/GM.

@@ -1,6 +1,6 @@
 ---
 # (Required) Ensure all values are filled up
-name: "Message deleted from Teams to MM"
+name: "Message deleted from MS MS Teams to MM"
 status: Active
 priority: Normal
 folder: Message sync
@@ -35,12 +35,12 @@ steps_hashed: null
 
 **Step 1**
 
-1. Delete the desired message from the linked channel or DM/GM in Teams.
+1. Delete the desired message from the linked channel or DM/GM in MS Teams.
 2. Go back to the linked channel or DM/GM in MM.
 
 **Step 2**
 
-1. After completing step 1, click on the undo option in Teams presented to the user.
+1. After completing step 1, click on the undo option in MS Teams presented to the user.
 2. Go back to the linked channel or DM/GM in MM and refresh the page.
 
 **Expected**
