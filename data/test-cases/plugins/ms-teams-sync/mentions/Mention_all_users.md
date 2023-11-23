@@ -34,7 +34,7 @@ steps_hashed: null
 
 **Step 1**
 
-1. In the text area mention "all" in the linked channel or GM and click on send button in MM.
+1. In the text area mention "all"/"channel"/"here" in the linked channel or GM and click on send button in MM.
 2. Navigate to the linked channel or GM in MS Teams.
 
 **Step 2**
