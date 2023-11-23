@@ -4,7 +4,7 @@ name: "Mention multiple users in channel or GM"
 status: Active
 priority: Normal
 folder: mentions
-authors: "@AayushChaudhary0001"
+authors: "@arush-vashishtha"
 team_ownership: []
 priority_p1_to_p4: P2 - Core Functions (Do core functions work?)
 
@@ -34,16 +34,15 @@ steps_hashed: null
 
 **Step 1**
 
-1. In the text area mention multiple users using '@' in channel or GM on MM.
-2. Click on the send button in MM.
-3. Navigate to the linked channel or DM/GM on MS teams.
+1. In the text area mention multiple users using '@' in linked channel or GM and click on send button in MM.
+2. Navigate to the linked channel or DM/GM on MS Teams.
 
 **Step 2**
 
-1. In the text area mention multiple users using '@' in channel or GM on MS teams.
-2. Click on the send button in MS teams.
-3. Navigate to the linked channel or DM/GM on MM.
+1. In the text area mention multiple users using '@' in linked channel or GM and click on send button in MS Teams.
+2. Navigate to the linked channel or DM/GM on MM.
 
 **Expected**
 
-The user should be able to view all the mentions highlighted in the desired channel or GM on MS teams. After step 2, the user should be able to view all the mentions highlighted in the desired channel or GM on MM.
+The user should be able to view all the mentioned users highlighted in the linked channel or GM on MS Teams. 
+After step 2, the user should be able to view all the mentioned users highlighted in the linked channel or GM on MM.
