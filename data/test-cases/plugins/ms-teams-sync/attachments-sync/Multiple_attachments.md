@@ -4,7 +4,7 @@ name: "Send multiple attachments"
 status: Active
 priority: Normal
 folder: attachments-sync
-authors: "@AayushChaudhary0001"
+authors: "@arush-vashishtha"
 team_ownership: []
 priority_p1_to_p4: P2 - Core Functions (Do core functions work?)
 
@@ -34,17 +34,16 @@ steps_hashed: null
 
 **Step 1**
 
-1. Click on the attachments buttons in channel or DM/GM in MM.
-2. Select multiple attachments and click on open.
-3. Click on the send button in the MM.
-4. Navigate to the linked channel or DM/GM in MS teams.
+1. Upload multiple attachments in linked channel or DM/GM in MM.
+2. Click on the send button in the MM.
+3. Navigate to the linked channel or DM/GM in MS Teams.
 
 **Step 2**
-1. Click on the attachments buttons in channel or DM/GM in MS teams.
-2. Select multiple attachments and click on open.
-3. Click on the send button in the MS teams.
-4. Navigate to the linked channel or DM/GM in MM.
+1. Upload multiple attachments in linked channel or DM/GM in MS Teams.
+2. Click on the send button in the MS Teams.
+3. Navigate to the linked channel or DM/GM in MM.
 
 **Expected**
 
-The user should be able to view in MS teams all the attachments sent from MM. After step 2, the user should be able to view in MM all the attachments sent from MS teams.
+The user should be able to view all the attachments in MS teams sent from MM. 
+After step 2, the user should be able to view all the attachments in MM sent from MS Teams.

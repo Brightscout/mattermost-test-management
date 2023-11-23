@@ -4,7 +4,7 @@ name: "Send embedded image"
 status: Active
 priority: Normal
 folder: attachments-sync
-authors: "@AayushChaudhary0001"
+authors: "@arush-vashishtha"
 team_ownership: []
 priority_p1_to_p4: P2 - Core Functions (Do core functions work?)
 
@@ -34,16 +34,15 @@ steps_hashed: null
 
 **Step 1**
 
-1. Paste the embedded image in the text area of the channel or DM/GM in MM.
-2. Click on send button in MM.
-3. Navigate to the linked channel or DM/GM in MS teams.
+1. Paste the embedded image in the text area and click on send button in linked channel or DM/GM in MM.
+2. Navigate to the linked channel or DM/GM in MS Teams.
 
 **Step 2**
 
-1. Paste the embedded image in the text area of the channel or DM/GM in MS teams.
-2. Click on send button in MS teams.
-3. Navigate to the linked channed or DM/GM in MM.
+1. Paste the embedded image in the text area and click on send button in linked channel or DM/GM in MS Teams.
+2. Navigate to the linked channed or DM/GM in MM.
 
 **Expected**
 
-The user should be able to view the embedded image in the linked MS teams channel or DM/GM. After step 2, the user should be able to view the embedded image in the linked MM channel or DM/GM.
+The user should be able to view the embedded image in the linked channel or DM/GM on MS Teams. 
+After step 2, the user should be able to view the embedded image in the linked channel or DM/GM on MM.
