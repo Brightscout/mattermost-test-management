@@ -1,6 +1,6 @@
 ---
 # (Required) Ensure all values are filled up
-name: "Not allowed size of attachment"
+name: "Not allowed size of attachment on MM"
 status: Active
 priority: Normal
 folder: attachments-sync
