@@ -44,4 +44,5 @@ steps_hashed: null
 
 **Expected**
 
-The user should get the error message regarding the size too large and not be able to send the attachment from MM to MS Teams. After step 2, the user should get an error message that the attachment size is too large in MM.
+The user should get the error message regarding the size too large and not be able to send the attachment from MM to MS Teams. 
+After step 2, the user should get an error message that the attachment size is too large in MM.
