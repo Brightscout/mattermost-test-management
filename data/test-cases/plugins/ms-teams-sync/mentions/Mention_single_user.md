@@ -34,12 +34,12 @@ steps_hashed: null
 
 **Step 1**
 
-1. In the text area mention a user using '@' in linked channel or DM/GM and click on send button in MM.
+1. Send mention for a user in the linked channel or DM/GM on MM.
 2. Navigate to the linked channel or DM/GM on MS Teams.
 
 **Step 2**
 
-1. In the text area mention a user using '@' in linked channel or DM/GM and click on send button in MS Teams.
+1. Send mention for a user in the linked channel or DM/GM on MS Teams.
 2. Navigate to the linked channel or DM/GM on MM.
 
 **Expected**

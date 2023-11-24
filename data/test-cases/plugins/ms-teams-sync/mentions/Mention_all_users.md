@@ -34,15 +34,15 @@ steps_hashed: null
 
 **Step 1**
 
-1. In the text area mention "all"/"channel"/"here" in the linked channel or GM and click on send button in MM.
+1. Send the `all`/`channel`/`here` mention in the linked channel or GM in MM.
 2. Navigate to the linked channel or GM in MS Teams.
 
 **Step 2**
 
-1. In the text area mention the "Channel" or "everyone" in the linked channel or GM respectively and click on send button in MS Teams.
+1. Send the `Channel name` or `everyone` mention in the linked channel or GM respectively in MS Teams.
 2. Navigate to the linked channel or GM in MM.
 
 **Expected**
 
-The user should be able to view the "channel name" or "everyone" mention highlighted in the linked channel or GM on MS Teams. 
-After step 2, the user should be able to view the "all" mention highlighted in the linked channel or GM on MM.
+The user should be able to view the `channel name` or `everyone` mention highlighted in the linked channel or GM on MS Teams. 
+After step 2, the user should be able to view the `all` mention highlighted in the linked channel or GM on MM.
