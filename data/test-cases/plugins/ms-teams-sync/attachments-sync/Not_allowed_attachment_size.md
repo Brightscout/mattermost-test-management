@@ -34,9 +34,9 @@ steps_hashed: null
 
 **Step 1**
 
-1. Upload and send attachment of size greater than the allowed size in MM in the linked channel or DM/GM in MS Teams.
+1. Upload and send attachment of size greater than the allowed size in MM in the linked channel or DM/GM on MS Teams.
 2. Navigate to the linked channel or DM/GM in MM.
 
 **Expected**
 
-The user should get an error message that the attachment size is too large in MM.
+The user should get an error message that the attachment size is too large in linked channel or DM/GM in MM.
