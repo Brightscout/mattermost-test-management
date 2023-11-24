@@ -34,12 +34,12 @@ steps_hashed: null
 
 **Step 1**
 
-1. Send the `all`/`channel`/`here` mention in the linked channel or GM in MM.
+1. Mention all the users through `all`/`channel`/`here` in the linked channel or GM on MM.
 2. Navigate to the linked channel or GM in MS Teams.
 
 **Step 2**
 
-1. Send the `Channel name` or `everyone` mention in the linked channel or GM respectively in MS Teams.
+1. Mention all the users through `Channel name` or `everyone` in the linked channel or GM respectively on MS Teams.
 2. Navigate to the linked channel or GM in MM.
 
 **Expected**

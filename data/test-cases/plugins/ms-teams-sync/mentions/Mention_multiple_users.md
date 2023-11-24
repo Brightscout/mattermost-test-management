@@ -34,13 +34,13 @@ steps_hashed: null
 
 **Step 1**
 
-1. Send mention for multiple users in the linked channel or GM on MM.
-2. Navigate to the linked channel or DM/GM on MS Teams.
+1. Mention multiple users in the linked channel or GM on MM.
+2. Navigate to the linked channel or DM/GM in MS Teams.
 
 **Step 2**
 
-1. Send mention for multiple users in the linked channel or GM on MS Teams.
-2. Navigate to the linked channel or DM/GM on MM.
+1. Mention multiple users in the linked channel or GM on MS Teams.
+2. Navigate to the linked channel or DM/GM in MM.
 
 **Expected**
 
