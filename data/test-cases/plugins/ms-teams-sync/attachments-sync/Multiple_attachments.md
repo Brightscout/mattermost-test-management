@@ -34,14 +34,12 @@ steps_hashed: null
 
 **Step 1**
 
-1. Upload multiple attachments in linked channel or DM/GM in MM.
-2. Click on the send button in the MM.
-3. Navigate to the linked channel or DM/GM in MS Teams.
+1. Upload and send multiple attachments in linked channel or DM/GM in MM.
+2. Navigate to the linked channel or DM/GM in MS Teams.
 
 **Step 2**
-1. Upload multiple attachments in linked channel or DM/GM in MS Teams.
-2. Click on the send button in the MS Teams.
-3. Navigate to the linked channel or DM/GM in MM.
+1. Upload and send multiple attachments in linked channel or DM/GM in MS Teams.
+2. Navigate to the linked channel or DM/GM in MM.
 
 **Expected**
 

@@ -34,15 +34,13 @@ steps_hashed: null
 
 **Step 1**
 
-1. Upload the desired GIF to send in the linked channel or DM/GM on MM.
-2. Click on send button in MM.
-3. Navigate to the linked channel or DM/GM in MS Teams.
+1. Upload and send the desired GIF in the linked channel or DM/GM on MM.
+2. Navigate to the linked channel or DM/GM in MS Teams.
 
 **Step 2**
 
-1. Upload the desired GIF to send in the linked channel or DM/GM on MS Teams.
-2. Click on send button in MS Teams.
-3. Navigate to the linked channel or DM/GM in MM.
+1. Upload and send the desired GIF in the linked channel or DM/GM on MS Teams.
+2. Navigate to the linked channel or DM/GM in MM.
 
 **Expected**
 
