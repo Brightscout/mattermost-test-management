@@ -1,6 +1,6 @@
 ---
 # (Required) Ensure all values are filled up
-name: "Formatting text as code snippets"
+name: "Formatting text as code snippet"
 status: Active
 priority: Normal
 folder: text-formatting
@@ -34,14 +34,14 @@ steps_hashed: null
 
 **Step 1**
 
-1. Enter and select the text in the text area of the linked channel or DM/GM in MM.
-2. Click on code snippet button in formatting menu and click on send button in MM.
+1. Select and format the entered text as code snippet in the linked channel or DM/GM in MM.
+2. Click on the send button in MM.
 3. Navigate to the linked channel or DM/GM in MS Teams.
 
 **Step 2**
 
-1. Enter and select the text in the text area of the linked channel or DM/GM in MS Teams.
-2. Click on code snipppet button and click on send button in MS Teams.
+1. Select and format the entered text as code snippet in the linked channel or DM/GM in MS Teams.
+2. Click on send button in MS Teams.
 3. Navigate to the linked channel or DM/GM in MM.
 
 **Expected**
