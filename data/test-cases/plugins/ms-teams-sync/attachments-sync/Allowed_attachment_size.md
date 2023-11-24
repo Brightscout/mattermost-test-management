@@ -34,15 +34,13 @@ steps_hashed: null
 
 **Step 1**
 
-1. Upload the attachment of the allowed size in the linked channel or DM/GM on MM.
-2. Click on the send button in MM.
-3. Navigate to the linked channel or DM/GM in MS Teams.
+1. Upload and send the attachment of the allowed size in the linked channel or DM/GM on MM.
+2. Navigate to the linked channel or DM/GM in MS Teams.
 
 **Step 2**
 
-1. Upload the attachments of the allowed size in the linked channel or DM/GM on MS Teams.
-2. Click on the send button in MS Teams.
-3. Navigate to the linked channel or DM/GM in MM.
+1. Upload and send the attachments of the allowed size in the linked channel or DM/GM on MS Teams.
+2. Navigate to the linked channel or DM/GM in MM.
 
 **Expected**
 
