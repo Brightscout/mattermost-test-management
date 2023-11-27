@@ -44,7 +44,7 @@ steps_hashed: null
 
 **Step 3**
 
-1. Upload and send multiple attachments of allowed and not allowed sizes in the linked channel or DM/GM on MS Teams.
+1. Upload and send multiple attachments of sizes smaller and larger than the allowed size in the linked channel or DM/GM on MS Teams.
 2. Navigate to the linked channel or DM/GM in MM.
 
 **Expected**
