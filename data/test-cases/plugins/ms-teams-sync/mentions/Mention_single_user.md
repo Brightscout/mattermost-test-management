@@ -1,6 +1,6 @@
 ---
 # (Required) Ensure all values are filled up
-name: "Mention a single user in channel or DM/GM"
+name: "Mention a single user in the linked channel or DM/GM"
 status: Active
 priority: Normal
 folder: mentions

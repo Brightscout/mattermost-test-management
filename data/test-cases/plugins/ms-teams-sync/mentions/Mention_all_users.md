@@ -1,6 +1,6 @@
 ---
 # (Required) Ensure all values are filled up
-name: "Mention all users in channel or GM"
+name: "Mention all users in the linked channel or GM"
 status: Active
 priority: Normal
 folder: mentions

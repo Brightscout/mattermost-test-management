@@ -1,6 +1,6 @@
 ---
 # (Required) Ensure all values are filled up
-name: "Mention multiple users in channel or GM"
+name: "Mention multiple users in the linked channel or GM"
 status: Active
 priority: Normal
 folder: mentions
@@ -35,12 +35,12 @@ steps_hashed: null
 **Step 1**
 
 1. Mention multiple users in the linked channel or GM on MM.
-2. Navigate to the linked channel or DM/GM in MS Teams.
+2. Navigate to the linked channel or GM in MS Teams.
 
 **Step 2**
 
 1. Mention multiple users in the linked channel or GM on MS Teams.
-2. Navigate to the linked channel or DM/GM in MM.
+2. Navigate to the linked channel or GM in MM.
 
 **Expected**
 
