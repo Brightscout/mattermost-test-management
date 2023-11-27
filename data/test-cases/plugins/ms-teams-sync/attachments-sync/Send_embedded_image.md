@@ -34,12 +34,12 @@ steps_hashed: null
 
 **Step 1**
 
-1. Paste and send the embedded image in the text area in linked channel or DM/GM on MM.
+1. Paste and send the embedded image in the text area in the linked channel or DM/GM on MM.
 2. Navigate to the linked channel or DM/GM in MS Teams.
 
 **Step 2**
 
-1. Paste and send the embedded image in the text area in linked channel or DM/GM on MS Teams.
+1. Paste and send the embedded image in the text area in the linked channel or DM/GM on MS Teams.
 2. Navigate to the linked channel or DM/GM in MM.
 
 **Expected**

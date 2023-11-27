@@ -44,5 +44,5 @@ steps_hashed: null
 
 **Expected**
 
-The user should be able to view the desired GIF attachment in linked channel or DM/GM in MS Teams. 
-After step 2, the user should be able to view the desired GIF attachment in linked channel or DM/GM in MM.
+The user should be able to view the desired GIF attachment in the linked channel or DM/GM in MS Teams. 
+After step 2, the user should be able to view the desired GIF attachment in the linked channel or DM/GM in MM.

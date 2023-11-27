@@ -39,10 +39,10 @@ steps_hashed: null
 
 **Step 2**
 
-1. Upload and send the attachments of the allowed size in the linked channel or DM/GM on MS Teams.
+1. Upload and send the attachment of the allowed size in the linked channel or DM/GM on MS Teams.
 2. Navigate to the linked channel or DM/GM in MM.
 
 **Expected**
 
-The user should be able to view the attachment in linked channel or DM/GM in MS Teams. 
-After step 2, the user should be able to view the attachment in linked channel or DM/GM in MM.
+The user should be able to view the attachment in the linked channel or DM/GM in MS Teams. 
+After step 2, the user should be able to view the attachment in the linked channel or DM/GM in MM.

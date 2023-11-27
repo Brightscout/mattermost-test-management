@@ -34,21 +34,21 @@ steps_hashed: null
 
 **Step 1**
 
-1. Upload and send multiple attachments in linked channel or DM/GM on MM.
+1. Upload and send multiple attachments of allowed size in the linked channel or DM/GM on MM.
 2. Navigate to the linked channel or DM/GM in MS Teams.
 
 **Step 2**
 
-1. Upload and send multiple attachments in linked channel or DM/GM on MS Teams.
+1. Upload and send multiple attachments of allowed size in the linked channel or DM/GM on MS Teams.
 2. Navigate to the linked channel or DM/GM in MM.
 
 **Step 3**
 
-1. Upload and send multiple attachments of allowed and not allowed size in linked channel or DM/GM on MS Teams.
+1. Upload and send multiple attachments of allowed and not allowed sizes in the linked channel or DM/GM on MS Teams.
 2. Navigate to the linked channel or DM/GM in MM.
 
 **Expected**
 
-The user should be able to view all the attachments in linked channel or DM/GM in MS Teams. 
-After step 2, the user should be able to view all the attachments in linked channel or DM/GM in MM.
-After step 3, the user should be able to view the attachments for allowed size attachments and error message for not allowed size attachments in the linked channel or DM/GM in MM.
+The user should be able to view all the attachments in the linked channel or DM/GM in MS Teams. 
+After step 2, the user should be able to view all the attachments in the linked channel or DM/GM in MM.
+After step 3, the user should be able to view the attachments having a size smaller than or equal to the allowed size and the error message for the rest of the attachments in the linked channel or DM/GM in MM.

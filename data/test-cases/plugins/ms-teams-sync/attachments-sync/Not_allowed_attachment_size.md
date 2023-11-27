@@ -39,4 +39,4 @@ steps_hashed: null
 
 **Expected**
 
-The user should get an error message that the attachment size is too large in linked channel or DM/GM in MM.
+The user should get an error message that the attachment size is too large in the linked channel or DM/GM in MM.
