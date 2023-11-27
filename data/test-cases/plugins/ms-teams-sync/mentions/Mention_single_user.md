@@ -34,12 +34,12 @@ steps_hashed: null
 
 **Step 1**
 
-1. Mention a user in the linked channel or DM/GM on MM.
+1. Mention a single user in the linked channel or DM/GM on MM.
 2. Navigate to the linked channel or DM/GM in MS Teams.
 
 **Step 2**
 
-1. Mention a user in the linked channel or DM/GM on MS Teams.
+1. Mention a single user in the linked channel or DM/GM on MS Teams.
 2. Navigate to the linked channel or DM/GM in MM.
 
 **Expected**
