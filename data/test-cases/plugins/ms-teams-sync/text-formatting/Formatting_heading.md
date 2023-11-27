@@ -34,12 +34,12 @@ steps_hashed: null
 
 **Step 1**
 
-1. Format the text as heading and send in linked channel or DM/GM on MM.
+1. Format the text as a heading and send in the linked channel or DM/GM on MM.
 2. Navigate to the linked channel or DM/GM on MS Teams.
 
 **Step 2**
 
-1. Format the text as heading and send in linked channel or DM/GM on MS Teams.
+1. Format the text as a heading and send in the linked channel or DM/GM on MS Teams.
 3. Navigate to the linked channel or DM/GM in MM.
 
 **Expected**

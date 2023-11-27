@@ -34,15 +34,15 @@ steps_hashed: null
 
 **Step 1**
 
-1. Format the text as hyperlink and send in the linked channel or DM/GM in MM.
+1. Format the text as a hyperlink and send in the linked channel or DM/GM in MM.
 2. Navigate to the linked channel or DM/GM in MS Teams.
 
 **Step 2**
 
-1. Format the text as hyperlink and send in the linked channel or DM/GM in MS Teams.
+1. Format the text as a hyperlink and send in the linked channel or DM/GM in MS Teams.
 2. Navigate to the linked channel or DM/GM in MM.
 
 **Expected**
 
-The user should be able to view the text as a hyperlink in channel or DM/GM on MS Teams. 
-After step 2, the user should be able to view the text as a hyperlink in channel or DM/GM on MM.
+The user should be able to view the text as a hyperlink in the linked channel or DM/GM on MS Teams. 
+After step 2, the user should be able to view the text as a hyperlink in the linked channel or DM/GM on MM.

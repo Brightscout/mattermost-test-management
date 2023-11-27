@@ -44,5 +44,5 @@ steps_hashed: null
 
 **Expected**
 
-The user should be able to view the text in a white background box in linked channel or DM/GM on MS Teams. 
-After step 2, the user should be able to view the text in a grey background box in linked channel or DM/GM on MM.
+The user should be able to view the text in a white background box in the linked channel or DM/GM on MS Teams. 
+After step 2, the user should be able to view the text in a grey background box in the linked channel or DM/GM on MM.
