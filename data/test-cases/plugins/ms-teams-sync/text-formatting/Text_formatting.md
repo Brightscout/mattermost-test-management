@@ -34,17 +34,15 @@ steps_hashed: null
 
 **Step 1**
 
-1. Enter and select the text in the text area of the linked channel or DM/GM in MM.
-2. Click on bold button, italics button, and strikethrough button in formatting menu and then click on send button in MM.
+1. Format the text as bold, italics and strikethrough and send in the linked channel or DM/GM in MM.
 3. Navigate to the linked channel or DM/GM in MS Teams.
 
 **Step 2**
 
-1. Enter and select the text in the text area of the linked channel or DM/GM in MS Teams.
-2. Click on bold button, italics button, and strikethrough button and then click on send button in MS Teams.
+1. Format the text as bold, italics and strikethrough and send in the linked channel or DM/GM in MS Teams.
 3. Navigate to the linked channel or DM/GM in MM.
 
 **Expected**
 
-The user should be able to view the text formated with bold, italics, and strikethrough in linked channel or DM/GM MS Teams. 
+The user should be able to view the text formated with bold, italics, and strikethrough in linked channel or DM/GM on MS Teams. 
 After step 2, the user should be able to view the text formated with bold, italics, and strikethrough in linked channel or DM/GM on MM.

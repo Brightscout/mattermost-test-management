@@ -34,15 +34,13 @@ steps_hashed: null
 
 **Step 1**
 
-1. Select and format the entered text as code snippet in the linked channel or DM/GM in MM.
-2. Click on the send button in MM.
-3. Navigate to the linked channel or DM/GM in MS Teams.
+1. Format the entered text as code snippet and send in the linked channel or DM/GM in MM.
+2. Navigate to the linked channel or DM/GM in MS Teams.
 
 **Step 2**
 
-1. Select and format the entered text as code snippet in the linked channel or DM/GM in MS Teams.
-2. Click on send button in MS Teams.
-3. Navigate to the linked channel or DM/GM in MM.
+1. Format the entered text as code snippet and send in the linked channel or DM/GM in MS Teams.
+2. Navigate to the linked channel or DM/GM in MM.
 
 **Expected**
 

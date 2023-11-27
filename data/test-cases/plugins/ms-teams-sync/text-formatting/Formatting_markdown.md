@@ -34,12 +34,12 @@ steps_hashed: null
 
 **Step 1**
 
-1. Enter text within "``" in the text area of the linked channel or DM/GM and click on send button in MM.
+1. Enter the text within "``" and send in the linked channel or DM/GM on MM.
 2. Navigate to the linked channel or DM/GM in MS Teams.
 
 **Step 2**
 
-1. Enter text within "``" in the text area of the linked channel or DM/GM and click on send button in MS Teams.
+1. Enter the text within "``" and send in the linked channel or DM/GM on MS Teams.
 2. Navigate to the linked channel or DM/GM in MM.
 
 **Expected**

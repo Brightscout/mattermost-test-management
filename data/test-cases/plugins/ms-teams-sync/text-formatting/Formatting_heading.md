@@ -34,14 +34,12 @@ steps_hashed: null
 
 **Step 1**
 
-1. Enter and select the text in the text area in linked channel or DM/GM on MM.
-2. Click on heading button and then click on the send button in MM.
-3. Navigate to the linked channel or DM/GM on MS Teams.
+1. Format the text as heading and send in linked channel or DM/GM on MM.
+2. Navigate to the linked channel or DM/GM on MS Teams.
 
 **Step 2**
 
-1. Enter and select the text in the text area in linked channel or DM/GM on MS Teams.
-2. Select the heading type from the rich style dropdown and click on the send button in MS Teams.
+1. Format the text as heading and send in linked channel or DM/GM on MS Teams.
 3. Navigate to the linked channel or DM/GM in MM.
 
 **Expected**
