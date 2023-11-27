@@ -1,6 +1,6 @@
 ---
 # (Required) Ensure all values are filled up
-name: "Remove reaction from a message"
+name: "Multiple reactions on a message"
 status: Active
 priority: Normal
 folder: reactions-to-message
