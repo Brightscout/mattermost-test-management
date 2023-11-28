@@ -39,7 +39,7 @@ steps_hashed: null
 
 **Step 2**
 
-1. When the account is disconnected, add reaction to a message in the linked channel on MS Teams.
+1. When the account is disconnected, add reaction to a user message in the linked channel on MS Teams.
 2. Navigate to the linked channel on MM.
 
 **Step 3**

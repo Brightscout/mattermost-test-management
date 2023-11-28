@@ -34,12 +34,12 @@ steps_hashed: null
 
 **Step 1**
 
-1. Change reaction to a message in the linked channel or DM/GM on MM.
+1. Change reaction on a message in the linked channel or DM/GM on MM.
 2. Navigate to the linked channel or DM/GM on MS Teams. 
 
 **Step 2**
 
-1. Change reaction to a message in the linked channel or DM/GM on MS Teams.
+1. Change reaction on a message in the linked channel or DM/GM on MS Teams.
 2. Navigate to the linked channel or DM/GM on MM.
 
 **Expected**

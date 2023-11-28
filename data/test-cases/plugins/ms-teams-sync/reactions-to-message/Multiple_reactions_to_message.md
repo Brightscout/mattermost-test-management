@@ -44,12 +44,12 @@ steps_hashed: null
 
 **Step 3**
 
-1. Add multiple reaction on a message from multiple users in the linked channel or GM on MM.
+1. Add multiple reactions on a message from multiple users in the linked channel or GM on MM.
 2. Navigate to the linked channel or GM on MS Teams.
 
 **Step 4**
 
-1. Add multiple reaction on a message from multiple users in the linked channel or GM on MS Teams.
+1. Add multiple reactions on a message from multiple users in the linked channel or GM on MS Teams.
 2. Navigate to the linked channel or GM on MM.
 
 **Expected**
