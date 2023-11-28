@@ -34,7 +34,7 @@ steps_hashed: null
 
 **Step 1**
 
-1. Upload and send attachment of size greater than the allowed size in the reply to a message in the linked channel or DM/GM on MS Teams.
+1. Upload and send attachment of size greater than the allowed size as a reply to a message in the linked channel or DM/GM on MS Teams.
 2. Navigate to the linked channel or DM/GM on MM.
 
 **Expected**

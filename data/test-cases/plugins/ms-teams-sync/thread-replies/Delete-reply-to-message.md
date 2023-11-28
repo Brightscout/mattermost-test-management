@@ -39,8 +39,8 @@ steps_hashed: null
 
 **Step 2**
 
-1. After step 1, click on the undo button for deleted message on MS Teams.
-2. Navigate to the linked channel or DM/GM on MM.
+1. After step 1, click on the undo button for deleted message in the linked channel or DM/GM on MS Teams.
+2. Navigate to the linked channel or DM/GM on MM and refresh the page.
 
 **Expected**
 

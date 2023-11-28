@@ -44,5 +44,5 @@ steps_hashed: null
 
 **Expected**
 
-The user should be able to view the editing done on the desired reply in the linked channel or DM/GM on MS Teams.
-After step 2, the user should be able to view the editing done on the desired reply in the linked channel or DM/GM on MM.
+The user should be able to view the updated reply message in the linked channel or DM/GM on MS Teams.
+After step 2, the user should be able to view the updated reply message in the linked channel or DM/GM on MM.
