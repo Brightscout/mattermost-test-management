@@ -34,18 +34,9 @@ steps_hashed: null
 
 **Step 1**
 
-1. Click on the reply button in linked channel on MS Teams.
-2. Upload and send the attachment of not allowed size in MS Teams.
-3. Navigate to the linked channel on MM.
-
-
-**Step 2**
-
-1. Hover on the desired message and click on the reply button in the linked DM/GM on MS Teams.
-2. Upload and send the attachment of not allowed size in MS Teams.
-3. Navigate to the linked DM/GM on MM.
+1. Upload and send attachment of size greater than the allowed size in the reply to a message in the linked channel or DM/GM on MS Teams.
+2. Navigate to the linked channel or DM/GM on MM.
 
 **Expected**
 
-The user should be able to view the error message for attachment size in the thread created for desired message in linked channel on MM.
-After step 2, the user should be able to view the error message for attachment size in the thread created for desired message in linked DM/GM on MM.
+The user should be able to view the error message for attachment size in the thread created for desired message in the linked channel or DM/GM on MM.

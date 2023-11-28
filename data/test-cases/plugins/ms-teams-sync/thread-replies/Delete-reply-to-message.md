@@ -34,13 +34,12 @@ steps_hashed: null
 
 **Step 1**
 
-1. Hover over the desired reply and click on more options in the linked channel or DM/GM on MS Teams.
-2. Click on the delete option in the more option menu on MS Teams.
-3. Navigate to the linked channel or DM/GM on MM.
+1. Delete a reply message in the linked channel or DM/GM on MS Teams.
+2. Navigate to the linked channel or DM/GM on MM.
 
 **Step 2**
 
-1. After step 1, click on undo button for deleted message on MS Teams.
+1. After step 1, click on the undo button for deleted message on MS Teams.
 2. Navigate to the linked channel or DM/GM on MM.
 
 **Expected**

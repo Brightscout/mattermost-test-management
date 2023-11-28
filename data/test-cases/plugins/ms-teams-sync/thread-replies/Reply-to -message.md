@@ -34,24 +34,15 @@ steps_hashed: null
 
 **Step 1**
 
-1. Hover on the desired message and click on the reply button in the linked channel or DM/GM on MM.
-2. Enter and send the text for reply in MM.
-3. Navigate to the linked channel or DM/GM on MS Teams.
+1. Reply to a message in the linked channel or DM/GM on MM.
+2. Navigate to the linked channel or DM/GM on MS Teams.
 
 **Step 2**
 
-1. Click on the reply button in linked channel on MS Teams.
-2. Enter and send the text for reply in MS Teams.
-3. Navigate to the linked channel on MM.
-
-**Step 3**
-
-1. Hover on the desired message and click on the reply button in the linked DM/GM on MS Teams.
-2. Enter and send the text for reply in MS Teams.
-3. Navigate to the linked DM/GM on MM.
+1. Reply to a message in the linked channel or DM/GM on MS Teams.
+2. Navigate to the linked channel or DM/GM on MM.
 
 **Expected**
 
-The user should be able to view the thread creation in linked channel or DM/GM on MS Teams for the desired message.
-After step 2, the user should be able to view the thread creation for desired message in linked channel on MM.
-After step 3, the user should be able to view the thread creation for the desired message in linked DM/GM on MM.
+The user should be able to view the thread creation for desired reply message in the linked channel or DM/GM on MS Teams.
+After step 2, the user should be able to view the thread creation for desired reply message in the linked channel or DM/GM on MM.
