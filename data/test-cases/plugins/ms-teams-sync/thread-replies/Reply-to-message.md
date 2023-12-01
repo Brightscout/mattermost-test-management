@@ -44,5 +44,5 @@ steps_hashed: null
 
 **Expected**
 
-The user should be able to verify the replied message in the threads view of the desired message in the linked channel or DM/GM on MS Teams.
-After step 2, the user should be able to verify the replied message in the threads view of the desired message in the linked channel or DM/GM on MM.
+The user should be able to verify the replied message in the thread view of the desired message, in the linked channel or DM/GM on MS Teams.
+After step 2, the user should be able to verify the replied message in the thread view of the desired message, in the linked channel or DM/GM on MM.

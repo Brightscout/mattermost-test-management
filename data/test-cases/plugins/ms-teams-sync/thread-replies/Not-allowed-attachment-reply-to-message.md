@@ -1,6 +1,6 @@
 ---
 # (Required) Ensure all values are filled up
-name: "Replying with attachment of not allowed size to a message"
+name: "Replying with an attachment of greater size than the allowed size on MM to a message"
 status: Active
 priority: Normal
 folder: thread-replies
@@ -34,9 +34,9 @@ steps_hashed: null
 
 **Step 1**
 
-1. Upload and send attachment of size greater than the allowed size as a reply to a message in the linked channel or DM/GM on MS Teams.
+1. Upload and send an attachment of a size greater than the allowed size as a reply to a message in the linked channel or DM/GM on MS Teams.
 2. Navigate to the linked channel or DM/GM on MM.
 
 **Expected**
 
-The user should be able to view the error message for attachment size in the thread created for desired message in the linked channel or DM/GM on MM.
+The user should be able to view the error message regarding the attachment size in the thread created for the desired message in the linked channel or DM/GM on MM.

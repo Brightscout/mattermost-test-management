@@ -1,6 +1,6 @@
 ---
 # (Required) Ensure all values are filled up
-name: "Replying with attachment of allowed size to a message"
+name: "Replying with an attachment of allowed size on MM to a message"
 status: Active
 priority: Normal
 folder: thread-replies
@@ -34,15 +34,15 @@ steps_hashed: null
 
 **Step 1**
 
-1. Upload and send an attachment of allowed size as a reply to a message in the linked channel or DM/GM on MM
+1. Upload and send an attachment of the allowed size as a reply to a message in the linked channel or DM/GM on MM
 2. Navigate to the linked channel or DM/GM on MS Teams.
 
 **Step 2**
 
-1. Upload and send an attachment of allowed size as a reply to a message in the linked channel or DM/GM on MS Teams.
+1. Upload and send an attachment of the allowed size as a reply to a message in the linked channel or DM/GM on MS Teams.
 2. Navigate to the linked channel on MM.
 
 **Expected**
 
-The user should be able to view the attachment as the reply of desired message in the linked channel or DM/GM on MS Teams.
-After step 2, the user should be able to view the attachment as the reply of desired message in the linked channel or DM/GM on MM.
+The user should be able to view the attachment as the reply to the desired message in the linked channel or DM/GM on MS Teams.
+After step 2, the user should be able to view the attachment as the reply to the desired message in the linked channel or DM/GM on MM.

@@ -1,6 +1,6 @@
 ---
 # (Required) Ensure all values are filled up
-name: "Delete a reply to a message"
+name: "Delete a reply to a message on MS Teams"
 status: Active
 priority: Normal
 folder: thread-replies
