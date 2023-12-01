@@ -1,0 +1,47 @@
+---
+# (Required) Ensure all values are filled up
+name: "Syncing guest users on MM"
+status: Active
+priority: Normal
+folder: plugin-configurations
+authors: "@arush-vashishtha"
+team_ownership: []
+priority_p1_to_p4: P2 - Core Functions (Do core functions work?)
+
+# (Optional)
+location: null
+component: null
+tags: []
+labels: []
+tested_by_contributor: null
+
+# (Optional) Test type and tools
+cypress: null
+detox: null
+mmctl: null
+playwright: null
+rainforest: []
+manual_test_environments: []
+
+# Do not change
+id: null
+key: null
+created_on: null
+last_updated: null
+case_hashed: null
+steps_hashed: null
+---
+
+**Step 1**
+
+1. Set the time in `Sync user` and enable the `Sync guest users` then check the users in system console on MM.
+
+**Step 2**
+
+1. After step 1, disable the `Sync guest users` option in the plugin configurations on MM and save the configurations.
+2. Check the guest users in users in system console on MM.
+
+**Expected**
+
+The user should be able to verify all the user along with the guest users.
+After step 2, the guest users created should get deactivated.
