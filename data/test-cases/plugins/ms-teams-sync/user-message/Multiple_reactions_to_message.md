@@ -3,7 +3,7 @@
 name: "Multiple reactions on a message"
 status: Active
 priority: Normal
-folder: reactions-to-message
+folder: user-message
 authors: "@arush-vashishtha"
 team_ownership: []
 priority_p1_to_p4: P2 - Core Functions (Do core functions work?)
@@ -34,12 +34,12 @@ steps_hashed: null
 
 **Step 1**
 
-1. Add Multiple reactions on a message from single user in the linked channel or DM/GM on MM.
+1. Add multiple reactions on a message from single user in the linked channel or DM/GM on MM.
 2. Navigate to the linked channel or DM/GM on MS Teams.
 
 **Step 2**
 
-1. Add Multiple reactions on a message from single user in the linked channel or DM/GM on MS Teams.
+1. Add multiple reactions on a message from single user in the linked channel or DM/GM on MS Teams.
 2. Navigate to the linked channel or DM/GM on MM.
 
 **Step 3**
@@ -55,6 +55,6 @@ steps_hashed: null
 **Expected**
 
 The user should be able to view the last added reaction on the message in the linked channel or DM/GM on MS Teams.
-After step 2, the user should be able to view the last added reaction on the message in the linked channel or DM/GM on MS Teams.
+After step 2, the user should be able to view the last added reaction on the message in the linked channel or DM/GM on MM.
 After step 3, the user should be able to view all the added reactions of different users on the message in the linked channel or GM on MS Teams.
 After step 4, the user should be able to view all the added reactions of different users on the message in the linked channel or GM on MM.

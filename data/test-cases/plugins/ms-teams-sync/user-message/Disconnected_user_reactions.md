@@ -3,7 +3,7 @@
 name: "Reactions from a disconnected account"
 status: Active
 priority: Normal
-folder: reactions-to-message
+folder: user-message
 authors: "@arush-vashishtha"
 team_ownership: []
 priority_p1_to_p4: P2 - Core Functions (Do core functions work?)
@@ -39,7 +39,7 @@ steps_hashed: null
 
 **Step 2**
 
-1. When the account is disconnected, add reaction to a user message in the linked channel on MS Teams.
+1. When the account is disconnected, add reaction to a normal message in the linked channel on MS Teams.
 2. Navigate to the linked channel on MM.
 
 **Step 3**
