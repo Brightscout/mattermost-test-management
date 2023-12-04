@@ -1,9 +1,9 @@
 ---
 # (Required) Ensure all values are filled up
-name: "Replying to a message"
+name: "Validatin the RHS design"
 status: Active
 priority: Normal
-folder: thread-replies
+folder: UI-design-1
 authors: "@arush-vashishtha"
 team_ownership: []
 priority_p1_to_p4: P2 - Core Functions (Do core functions work?)
@@ -34,15 +34,13 @@ steps_hashed: null
 
 **Step 1**
 
-1. Reply to a message in the linked channel or DM/GM on MM.
-2. Navigate to the linked channel or DM/GM on MS Teams.
+1. When the App bar is enabled, click and open the RHS.
 
 **Step 2**
 
-1. Reply to a message in the linked channel or DM/GM on MS Teams.
-2. Navigate to the linked channel or DM/GM on MM.
+1. When the App bar is disabled, click and open the RHS.
 
 **Expected**
 
-The user should be able to verify the replied message in the thread view of the desired message, in the linked channel or DM/GM on MS Teams.
-After step 2, the user should be able to verify the replied message in the thread view of the desired message, in the linked channel or DM/GM on MM.
+The user should be  able to view the RHS along with the App bar in the side on MM.
+After step 2, the user should be able to view the RHS without App bar in the side and the MS Teams sync plugin icon in the channel header on MM.

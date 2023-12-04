@@ -1,9 +1,9 @@
 ---
 # (Required) Ensure all values are filled up
-name: "Delete a reply to a message on MS Teams"
+name: "RHS changes after disconnecting user from their account on MM"
 status: Active
 priority: Normal
-folder: thread-replies
+folder: UI-design-1
 authors: "@arush-vashishtha"
 team_ownership: []
 priority_p1_to_p4: P2 - Core Functions (Do core functions work?)
@@ -34,15 +34,8 @@ steps_hashed: null
 
 **Step 1**
 
-1. Delete a reply message in the linked channel or DM/GM on MS Teams.
-2. Navigate to the linked channel or DM/GM on MM.
-
-**Step 2**
-
-1. After step 1, click on the undo button for deleted message in the linked channel or DM/GM on MS Teams.
-2. Navigate to the linked channel or DM/GM on MM and refresh the page.
+1. Disconnect the user from their MS Teams account from the RHS.
 
 **Expected**
 
-The desired reply should get deleted from the thread in the linked channel or DM/GM on MM.
-After step 2, the deleted reply should get restored in the linked channel or DM/GM on MM.
+The user should be able to view the `Connect your Microsoft Teasm account` modal in the RHS with the toast message regarding the disconnection of the user account on MM.
