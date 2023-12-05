@@ -3,7 +3,7 @@
 name: "Multiple reactions on a message"
 status: Active
 priority: Normal
-folder: user-message
+folder: user-reactions
 authors: "@arush-vashishtha"
 team_ownership: []
 priority_p1_to_p4: P2 - Core Functions (Do core functions work?)
