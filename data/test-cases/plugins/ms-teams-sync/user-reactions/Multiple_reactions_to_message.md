@@ -34,27 +34,27 @@ steps_hashed: null
 
 **Step 1**
 
-1. Add multiple reactions on a message from single user in the linked channel or DM/GM on MM.
+1. Add multiple reactions on the message from a single user in the linked channel or DM/GM on MM.
 2. Navigate to the linked channel or DM/GM on MS Teams.
 
 **Step 2**
 
-1. Add multiple reactions on a message from single user in the linked channel or DM/GM on MS Teams.
+1. Add multiple reactions on the message from a single user in the linked channel or DM/GM on MS Teams.
 2. Navigate to the linked channel or DM/GM on MM.
 
 **Step 3**
 
-1. Add multiple reactions on a message from multiple users in the linked channel or GM on MM.
-2. Navigate to the linked channel or GM on MS Teams.
+1. Add multiple reactions on a message from multiple users in the linked channel or DM/GM on MM.
+2. Navigate to the linked channel or DM/GM on MS Teams.
 
 **Step 4**
 
-1. Add multiple reactions on a message from multiple users in the linked channel or GM on MS Teams.
-2. Navigate to the linked channel or GM on MM.
+1. Add multiple reactions on a message from multiple users in the linked channel or DM/GM on MS Teams.
+2. Navigate to the linked channel or DM/GM on MM.
 
 **Expected**
 
 The user should be able to view the last added reaction on the message in the linked channel or DM/GM on MS Teams.
 After step 2, the user should be able to view the last added reaction on the message in the linked channel or DM/GM on MM.
-After step 3, the user should be able to view all the added reactions of different users on the message in the linked channel or GM on MS Teams.
-After step 4, the user should be able to view all the added reactions of different users on the message in the linked channel or GM on MM.
+After step 3, the user should be able to view the last added reactions of the users on the message in the linked channel or DM/GM on MS Teams.
+After step 4, the user should be able to view the last added reactions of the users on the message in the linked channel or DM/GM on MM.

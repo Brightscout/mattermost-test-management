@@ -1,6 +1,6 @@
 ---
 # (Required) Ensure all values are filled up
-name: "Add reaction to a message"
+name: "Add a reaction on the message"
 status: Active
 priority: Normal
 folder: user-reactions
@@ -34,15 +34,15 @@ steps_hashed: null
 
 **Step 1**
 
-1. Add reaction on a message in the linked channel or DM/GM on MM.
+1. Add a reaction on the message in the linked channel or DM/GM on MM.
 2. Navigate to the linked channel or DM/GM on MS Teams. 
 
 **Step 2**
 
-1. Add reaction on a message in the linked channel or DM/GM on MS Teams.
+1. Add a reaction on the message in the linked channel or DM/GM on MS Teams.
 2. Navigate to the linked channel or DM/GM on MM.
 
 **Expected**
 
-The user should be able to verify the added reaction on the message in the linked channel or DM/GM on MS Teams by his/her account.
-After the step 2, the user should be able to verify the added reaction to the message in the linked channel or DM/GM on MM by his/her account.
+The user should be able to view the added reaction on the message in the linked channel or DM/GM on MS Teams by their account.
+After the step 2, the user should be able to view the added reaction on the message in the linked channel or DM/GM on MM by their account.

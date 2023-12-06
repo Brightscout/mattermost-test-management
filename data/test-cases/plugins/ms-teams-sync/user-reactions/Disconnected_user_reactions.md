@@ -34,21 +34,15 @@ steps_hashed: null
 
 **Step 1**
 
-1. When the account is disconnected and the bot account is connected, add reaction to the bot message in the linked channel on MS Teams.
+1. Add a reaction on the message created by the bot account in the linked channel on MS Teams, when the user account is disconnected and the bot account is connected.
 2. Navigate to the linked channel on MM.
 
 **Step 2**
 
-1. When the account is disconnected, add reaction to a normal message in the linked channel on MS Teams.
-2. Navigate to the linked channel on MM.
-
-**Step 3**
-
-1. When the account is disconnected and the bot account is connected, add reaction on a message in the linked channel on MM.
-2. Navigate to the linked channel on MS Teams.
+1. When the account is disconnected, add a reaction on a normal message in the linked channel or DM/GM on MS Teams.
+2. Navigate to the linked channel or DM/GM on MM.
 
 **Expected**
 
 The reaction should not get added to the message in the linked channel on MM.
-After step 2, the reaction should get added to the message in the linked channel on MM.
-After step 3, the reaction should not get added to the message in the linked channel on MS Teams.
+After step 2, the reaction should get added to the message in the linked channel or DM/GM on MM.
