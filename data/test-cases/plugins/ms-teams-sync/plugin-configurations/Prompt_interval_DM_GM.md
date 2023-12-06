@@ -34,8 +34,9 @@ steps_hashed: null
 
 **Step 1**
 
-1. When the `Prompt interval for DMs and GMs` time is set and disconnected user sends a message in DM/GM from MM just after setting the time or after the interval time is completed.
+1. Set the time for `Prompt interval for DMs and GMs` option in the plugin settins on MM.
+2. Send message in DM/GM just after setting the time or after the interval time is completed from disconnected user on MM .
 
 **Expected**
 
-The user should get a message only visible to the disconnected user who send the message regarding to connect their account.
+The user should get an ephermal post with a message to connect their account to MS Teams.

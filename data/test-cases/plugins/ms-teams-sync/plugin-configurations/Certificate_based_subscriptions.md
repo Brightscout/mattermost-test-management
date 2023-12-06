@@ -34,15 +34,15 @@ steps_hashed: null
 
 **Step 1**
 
-1. When the `certificate based subscriptions` are enabled send message in the linked channel or DM/GM on MM or MS Teams.
-2. Navigate to the linked channel or DM/GM on MS Teams or MM respectively.
+1. Enable the `certificate based subscriptions` and send message in the linked channel or DM/GM on MS Teams.
+2. Navigate to the linked channel or DM/GM on MM.
 
 **Step 1**
 
-1. When the `certificate based subscriptions` are disabled send message in the linked channel or DM/GM on MM or MS Teams.
-2. Navigate to the linked channel or DM/GM on MS Teams or MM respectively.
+1. Disable the `certificate based subscriptions` and send message in the linked channel or DM/GM on MS Teams.
+2. Navigate to the linked channel or DM/GM on MM.
 
 **Expected**
 
-The user should be able to verify the message sync and their order in the linked channel or DM/GM on MS Teams or MM respectively.
-After step 2, the user should get a delay or the order is not maintained for the messages sync in the linked channel or DM/GM on MS Teams or MM respectively.
+The user should be able to verify the message sync and their order in the linked channel or DM/GM on MM.
+After step 2, the user should get a delay or there can be a mismatch in the order of the messages synced in the linked channel or DM/GM on MM.

@@ -34,15 +34,17 @@ steps_hashed: null
 
 **Step 1**
 
-1. Leave the `enabled teams` option empty and send message in any linked channel on MM or MS Teams.
-2. Navigate to the linked channel in MS Teams or MM respectively.
+1. Leave the `enabled teams` field empty in the plugin settings.
+2. Send message in any linked channel on MM or MS Teams.
+3. Navigate to the linked channel in MS Teams or MM respectively.
 
 **Step 2**
 
-1. Add the team name in `enabled teams` option and send the message in any linked channel of the added team on MM or MS Teams.
+1. Add the desired team name in `enabled teams` field in the plugin settings.
+2. Send message in any linked channel of the desired team added on MM or MS Teams.
 2. Navigate to the linked channel in MS Teams or MM respectively.
 
 **Expected**
 
 The message should get synced in the linked channel on MS Teams or MM respectively.
-After step 2, the message should not get synced in the linked cchannel on MS Teams or MM respectively.
+After step 2, the message should not get synced in the linked channel on MS Teams or MM respectively.

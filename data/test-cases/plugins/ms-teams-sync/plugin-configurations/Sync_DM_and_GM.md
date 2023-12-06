@@ -34,9 +34,10 @@ steps_hashed: null
 
 **Step 1**
 
-1. When the `Sync direct and group message` option is enabled send message in the linked DM/GM on MM or MS Teams.
-2. Navigate to the linked DM/GM on MS Teams or MM respectively.
+1. Enable the `Sync direct and group message` option in the plugin settings in MM
+2. Send message in the DM/GM on MM or MS Teams.
+3. Navigate to the linked DM/GM on MS Teams or MM respectively.
 
 **Expected**
 
-The uesr should be able to verify the message in the linked DM/GM on MS Teams or MM respectively.
+The user should be able to verify the message in the DM/GM on MS Teams or MM respectively.

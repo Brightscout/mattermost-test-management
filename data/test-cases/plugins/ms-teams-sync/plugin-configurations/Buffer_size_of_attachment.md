@@ -34,7 +34,8 @@ steps_hashed: null
 
 **Step 1**
 
-1. When the `Buffer size for streaming files` is set and the user click on the media file from MS Teams to MM in the linked channel or DM/GM.
+1. Set the `Buffer size for streaming files` in the plugin settings on MM.
+2. Click on the media file in MM.
 
 **Expected**
 

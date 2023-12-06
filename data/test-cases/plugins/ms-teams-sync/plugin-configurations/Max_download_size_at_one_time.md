@@ -34,9 +34,10 @@ steps_hashed: null
 
 **Step 1**
 
-1. When the `Maximum size of attachments to support complete one time download` size is set and the user click on the attachment to download in the linked channel or DM/GM on MM.
-2. Navigate to the downloaded files on your system.
+1. Set the size in `Maximum size of attachments to support complete one time download` option in plugin settings on MM.
+2. Click on the attachment to download in the linked channel or DM/GM on MM.
+3. Navigate to the downloaded files on your system.
 
 **Expected**
 
-The attachment file should get downloaded.
+The attachment file downloaded should not get affected in any way.

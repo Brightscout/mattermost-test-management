@@ -34,8 +34,9 @@ steps_hashed: null
 
 **Step 1**
 
-1. Click on the `Download report` in the plugin configurations on MM and open the downloaded file.
+1. Click on the `Download report` in the plugin settings on MM. 
+2. Click on the downloaded file in the containing folder.
 
 **Expected**
 
-The downloaded file should be csv and should show the list of connected accounts and connected bot accounts in the plugin.
+The downloaded file should be a csv file and should show the list of accounts connected to MS teams in the plugin.

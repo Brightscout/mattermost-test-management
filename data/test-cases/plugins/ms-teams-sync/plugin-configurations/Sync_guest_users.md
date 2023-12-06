@@ -34,14 +34,15 @@ steps_hashed: null
 
 **Step 1**
 
-1. Set the time in `Sync user` and enable the `Sync guest users` then check the users in system console on MM.
+1. Set the time in `Sync user` and enable the `Sync guest users` option in the plugin settings in MM
+2. Navigate to users in system console on MM.
 
 **Step 2**
 
-1. After step 1, disable the `Sync guest users` option in the plugin configurations on MM and save the configurations.
-2. Check the guest users in users in system console on MM.
+1. After step 1, disable the `Sync guest users` option in the plugin settings on MM.
+2. Navigate to users in the system console on MM and Check the guest users.
 
 **Expected**
 
-The user should be able to verify all the user along with the guest users.
-After step 2, the guest users created should get deactivated.
+The user should be able to verify all the users present on MM along with the guest users of MS Teams.
+After step 2, the guest users created on MM should get deactivated.

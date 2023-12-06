@@ -34,13 +34,14 @@ steps_hashed: null
 
 **Step 1**
 
-1. When the time is set in `Sync user` option in the plugin configurations and check users in System console on MM.
+1. Set the time in `Sync user` option in the plugin settings in MM
+2. Navigate to users in system console on MM.
 
 **Step 2**
 
-1. After step 1, check for the existing user on MM.
+1. After step 1, check for users who already existed on MM.
 
 **Expected**
 
-The user should be able to verify all the users created except the guest user on MS Teams.
+The user should be able to verify all the users created on MS Teams.
 After step 2, No existing user should be created again as a remote user.
