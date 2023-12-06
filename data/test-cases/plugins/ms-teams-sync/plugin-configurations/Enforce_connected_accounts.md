@@ -45,5 +45,5 @@ steps_hashed: null
 
 **Expected**
 
-The enforce connect page should open and the user should get the option to connect their account to MS Teams.
+The enforce connect page should open and the user should get the option to connect their account to MS Teams without which they cannot proceed to MM.
 After step 2, the user should get directed to their MM account without connecting his account to MS Teams.
