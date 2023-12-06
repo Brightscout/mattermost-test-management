@@ -45,4 +45,4 @@ steps_hashed: null
 **Expected**
 
 The reaction should be removed from the message in the linked channel or DM/GM on MS Teams.
-After the step 2, the reaction should be removed from the message in the linked channel or DM/GM on MM.
+After step 2, the reaction should be removed from the message in the linked channel or DM/GM on MM.

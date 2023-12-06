@@ -45,4 +45,4 @@ steps_hashed: null
 **Expected**
 
 The user should be able to view the added reaction on the message in the linked channel or DM/GM on MS Teams by their account.
-After the step 2, the user should be able to view the added reaction on the message in the linked channel or DM/GM on MM by their account.
+After step 2, the user should be able to view the added reaction on the message in the linked channel or DM/GM on MM by their account.
