@@ -35,9 +35,9 @@ steps_hashed: null
 **Step 1**
 
 1. Set the size in `Maximum size of attachments to support complete one time download` option in plugin settings on MM.
-2. Click on the attachment to download in the linked channel or DM/GM on MM.
-3. Navigate to the downloaded files on your system.
+2. Send the attachment in the linked channel or DM/GM on MM or MS Teams.
+3. Navigate to the linked channel or DM/GM on MS Teams or MM respectively.
 
 **Expected**
 
-The attachment file downloaded should not get affected in any way.
+The user should be able to verify the attachment in the linked channel or DM/GM on MS Teams or MM respectively.

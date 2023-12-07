@@ -35,7 +35,7 @@ steps_hashed: null
 **Step 1**
 
 1. Set the time for `Prompt interval for DMs and GMs` option in the plugin settins on MM.
-2. Send message in DM/GM just after setting the time or after the interval time is completed from disconnected user on MM .
+2. Send a message in DM/GM just after setting the time or after the interval time is completed from the disconnected user on MM.
 
 **Expected**
 

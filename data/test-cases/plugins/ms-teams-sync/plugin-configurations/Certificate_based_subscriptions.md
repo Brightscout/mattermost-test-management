@@ -35,16 +35,16 @@ steps_hashed: null
 **Step 1**
 
 1. Add the `certificate public` and `certificate key` in the plugin settings on MM.
-2. send message in the linked channel or DM/GM on MS Teams.
+2. Send a message in the linked channel or DM/GM on MS Teams.
 3. Navigate to the linked channel or DM/GM on MM.
 
-**Step 1**
+**Step 2**
 
 1. Remove the `certificate public` and `certificate key` in the plugin settings on MM.
-2. send message in the linked channel or DM/GM on MS Teams.
+2. Send a message in the linked channel or DM/GM on MS Teams.
 3. Navigate to the linked channel or DM/GM on MM.
 
 **Expected**
 
-The user should be able to verify the message sync at more pace and their order in the linked channel or DM/GM on MM.
-After step 2, the user should get a delay or there can be a mismatch in the order of the messages synced in the linked channel or DM/GM on MM.
+The user should be able to verify the message sync at a faster pace in the linked channel or DM/GM on MM.
+After step 2, the user should get a slower pace in the messages sync in the linked channel or DM/GM on MM.

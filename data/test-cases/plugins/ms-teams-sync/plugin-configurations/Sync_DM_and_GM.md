@@ -34,10 +34,17 @@ steps_hashed: null
 
 **Step 1**
 
-1. Enable the `Sync direct and group message` option in the plugin settings in MM
+1. Enable the `Sync direct and group message` option in the plugin settings on MM
 2. Send message in the DM/GM on MM or MS Teams.
-3. Navigate to the linked DM/GM on MS Teams or MM respectively.
+3. Navigate to the DM/GM on MS Teams or MM respectively.
+
+**Step 2**
+
+1. Disable the `Sync direct and group message` option in the plugin settings on MM
+2. Send message in the DM/GM on MM or MS Teams.
+3. Navigate to the DM/GM on MS Teams or MM respectively.
 
 **Expected**
 
-The user should be able to verify the message in the DM/GM on MS Teams or MM respectively.
+The user should be able to verify the message synced in the DM/GM on MS Teams or MM respectively.
+After step 2, the message should not get synced in the DM/GM on MS Teams or MM respectively.

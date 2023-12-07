@@ -34,9 +34,9 @@ steps_hashed: null
 
 **Step 1**
 
-1. Click on the `Download report` in the plugin settings on MM. 
-2. Click on the downloaded file in the containing folder.
+1. Click on the `Download report` button in the plugin settings on MM. 
+2. Open the downloaded file.
 
 **Expected**
 
-The downloaded file should be a csv file and should show the list of accounts connected to MS teams in the plugin.
+The downloaded file should be a CSV file showing the list of accounts connected to MS teams in the plugin.

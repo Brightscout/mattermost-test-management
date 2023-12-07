@@ -34,16 +34,16 @@ steps_hashed: null
 
 **Step 1**
 
-1. Set the `enforce connected account` option true in the plugin settings on MM.
-2. Login into the MM from disconnected user.
+1. Set the `enforce connected account` option to `true` in the plugin settings on MM.
+2. Login into the MM from a disconnected user.
 
 **Step 2**
 
-1. Set the `enforce connected account` and `Allow to temporarily skip connect user` options true in the plugin settings on MM.
-2. Login into the MM from disconnected user.
+1. Set the `enforce connected account` and `Allow to temporarily skip connect user` options to `true` in the plugin settings on MM.
+2. Login into the MM from a disconnected user.
 3. Click on the `Skip for now` option.
 
 **Expected**
 
-The enforce connect page should open and the user should get the option to connect their account to MS Teams without which they cannot proceed to MM.
-After step 2, the user should get directed to their MM account without connecting his account to MS Teams.
+The enforce connect page should open and the user should get the option to connect their account to MS Teams, without which they cannot proceed to MM.
+After step 2, the user should be directed to their MM account without connecting their account to MS Teams.

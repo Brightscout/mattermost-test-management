@@ -57,6 +57,6 @@ steps_hashed: null
 **Expected**
 
 The new user should be able to connect to their MS Teams account.
-After step 2, the total number of connected users should not get affected.
+After step 2, any of the connected users(connected atleast once) should not get affected.
 After step 3, the new user should not be able to connect to their MS Teams account.
-After step 4, the user should not be able to connect to their MS Teams account.
+After step 4, the new user should not be able to connect to their MS Teams account.

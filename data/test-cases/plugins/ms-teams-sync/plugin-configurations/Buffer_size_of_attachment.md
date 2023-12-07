@@ -35,8 +35,8 @@ steps_hashed: null
 **Step 1**
 
 1. Set the `Buffer size for streaming files` in the plugin settings on MM.
-2. Send the media file in the linked channel or DM/GM on MM or MS Teams.
-3. Click on the media file in the linked channel or DM/Gm on MM.
+2. Send the attachment in the linked channel or DM/GM on MM or MS Teams.
+3. Click on the attachment in the linked channel or DM/GM on MM.
 
 **Expected**
 
