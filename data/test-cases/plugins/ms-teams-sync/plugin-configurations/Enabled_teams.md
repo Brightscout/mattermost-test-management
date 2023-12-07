@@ -47,7 +47,7 @@ steps_hashed: null
 **Step 3**
 
 1. Add the desired team name in `enabled teams` field in the plugin settings.
-2. Send message in any linked channel of any team other than the added desired team on MM or MS Teams.
+2. Send message in any linked channel of any team other than the added team on MM or MS Teams.
 2. Navigate to the linked channel in MS Teams or MM respectively.
 
 **Expected**

@@ -1,6 +1,6 @@
 ---
 # (Required) Ensure all values are filled up
-name: "Certificate based subscription on MM"
+name: "Certificate based subscriptions on MM"
 status: Active
 priority: Normal
 folder: plugin-configurations
