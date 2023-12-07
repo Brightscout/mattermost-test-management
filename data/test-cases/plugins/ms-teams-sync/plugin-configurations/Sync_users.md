@@ -51,4 +51,4 @@ steps_hashed: null
 
 The user should be able to verify all the `users` created on MS Teams.
 After step 2, no existing user should be created again as a remote user.
-After step 3, the synced user should get inactive on MM.
+After step 3, the synced user should get deactivated on MM.

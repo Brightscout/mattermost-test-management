@@ -40,4 +40,4 @@ steps_hashed: null
 
 **Expected**
 
-The file should get loaded and the user should be able to verify the media attachment.
+The file should get loaded and the user should be able to verify the attachment.
