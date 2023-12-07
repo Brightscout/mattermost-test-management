@@ -35,13 +35,20 @@ steps_hashed: null
 **Step 1**
 
 1. Set the time in `Sync user` option in the plugin settings on MM.
-2. Navigate to users in system console on MM.
+2. Navigate to `users` in system console on MM.
 
 **Step 2**
 
 1. After step 1, check for users who already existed on MM.
 
+**Step 3**
+
+1. Set the time in `Sync user` option in the plugin settings on MM.
+2. Deativate a user on MS Teams after it is synced.
+3. Navigate to `users` in the system console on MM 
+
 **Expected**
 
 The user should be able to verify all the `users` created on MS Teams.
-After step 2, No existing user should be created again as a remote user.
+After step 2, no existing user should be created again as a remote user.
+After step 3, the synced user should get inactive on MM.
