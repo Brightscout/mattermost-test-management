@@ -47,4 +47,4 @@ steps_hashed: null
 **Expected**
 
 The user should be able to verify the message sync at a faster pace in the linked channel or DM/GM on MM.
-After step 2, the user should get a message, which can be slower as compared to using certificate based subscriptions in the linked channel or DM/GM on MM.
+After step 2, the user should get a message, which can be slower as compared to messages while using certificate based subscriptions in the linked channel or DM/GM on MM.
