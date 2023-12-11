@@ -44,5 +44,5 @@ steps_hashed: null
 
 **Expected**
 
-The user should be able to view the `Link channel` modal in the RHS on MM.
-After step 2, the user should be able to view the `Connect your Microsoft Teams account` modal in the RHS on MM.
+The user account on MM should get connected to the account on MS Teams in the RHS on MM.
+After step 2, the user should be able to view the `Connect your Microsoft Teams account` modal in the RHS on MM and the account should get disconnected.

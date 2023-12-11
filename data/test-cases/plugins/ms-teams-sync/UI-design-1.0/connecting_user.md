@@ -38,4 +38,4 @@ steps_hashed: null
 
 **Expected**
 
-The user should be able to see the `Link channel` modal in the RHS with a toast message regarding the successful connection of their account on MM.
+The user account should get connected to the MS Teams account.

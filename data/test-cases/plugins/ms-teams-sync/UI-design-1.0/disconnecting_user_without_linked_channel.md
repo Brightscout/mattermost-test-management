@@ -34,8 +34,15 @@ steps_hashed: null
 
 **Step 1**
 
-1. Disconnect the user from their MS Teams account from the RHS.
+1. Click on the disconnect button in the RHS on MM.
+2. CLick on disconnect button in the `Disconnect Microsoft teams account` modal.
+
+**Step 2**
+
+1. Click on the disconnect button in the RHS on MM.
+2. CLick on cancel button in the `Disconnect Microsoft teams account` modal.
 
 **Expected**
 
-The user should be able to view the `Connect your Microsoft Teasm account` modal in the RHS with the toast message regarding the disconnection of the user account on MM.
+The user should be able to view the `Connect your Microsoft Teams account` modal in the RHS with the toast message regarding the disconnection of the user account on MM.
+After step 2, the account should not get affected.
