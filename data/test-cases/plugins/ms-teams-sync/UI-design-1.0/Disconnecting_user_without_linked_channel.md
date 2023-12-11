@@ -44,5 +44,5 @@ steps_hashed: null
 
 **Expected**
 
-The user should be able to view the `connect account` button in the RHS with the toast message regarding the successful disconnection of the user account on MM.
-After step 2, the `Disconnect Microsoft teams account` modal should close and the connection of user should not get affected.
+The user should be able to view the `connect account` button in the RHS with the toast message regarding the successful disconnection of their MS Teams account.
+After step 2, the `Disconnect Microsoft teams account` modal should close and the existing connection of user should not get affected.

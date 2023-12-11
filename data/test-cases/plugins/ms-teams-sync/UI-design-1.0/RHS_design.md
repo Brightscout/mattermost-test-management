@@ -42,5 +42,5 @@ steps_hashed: null
 
 **Expected**
 
-The user should be able to view the RHS of MS Teams along with the App bar in the side on MM.
-After step 2, the user should be able to view the RHS of MS Teams without App bar in the side and the MS Teams sync plugin icon in the channel header on MM.
+The user should be able to view the RHS of MS Teams along with the `App bar` in the side on MM.
+After step 2, the user should be able to view the RHS of MS Teams without `App bar` in the side and the MS Teams sync plugin icon in the channel header on MM.

@@ -38,4 +38,4 @@ steps_hashed: null
 
 **Expected**
 
-The user account should get connected to the MS Teams account and the same should reflect in the RHS with a toast message regarding the successful connection.
+The user account should get connected to their MS Teams account and the same should reflect in the RHS with a toast message regarding the successful connection.

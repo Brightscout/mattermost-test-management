@@ -44,5 +44,5 @@ steps_hashed: null
 
 **Expected**
 
-The user account should get connected to the MS Teams account and the same should reflect in the RHS on MM.
-After step 2,the account should get disconnected and the user should be able to view the `connect account` button in the RHS on MM. 
+The user account should get connected to their MS Teams account and the same should reflect in the RHS on MM.
+After step 2,the user account should get disconnected from their MS Teams account and the user should be able to view the `connect account` button in the RHS on MM.
