@@ -34,11 +34,11 @@ steps_hashed: null
 
 **Step 1**
 
-1. When the App bar is enabled, click and open the RHS.
+1. When the `App bar` is enabled, click on MS Teams icon and open the RHS.
 
 **Step 2**
 
-1. When the App bar is disabled, click and open the RHS.
+1. When the `App bar` is disabled, click on MS Teams icon in channel header and open the RHS.
 
 **Expected**
 

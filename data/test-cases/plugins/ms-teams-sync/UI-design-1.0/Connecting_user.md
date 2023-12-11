@@ -1,6 +1,6 @@
 ---
 # (Required) Ensure all values are filled up
-name: "RHS changes after disconnecting user from their account on MM"
+name: "Updated RHS after connecting a user to their MS Teams account on MM"
 status: Active
 priority: Normal
 folder: UI-design-1.0
@@ -34,8 +34,8 @@ steps_hashed: null
 
 **Step 1**
 
-1. When the channels are linked from MM to MS Teams disconnect the user from their MS Teams account from the RHS.
+1. Connect the user to their MS Teams account from RHS on MM.
 
 **Expected**
 
-The user should be able to see the request message to connect your account with the list of linked channels.
+The user account should get connected to the MS Teams account and the same should reflect in the RHS with a toast message regarding the successful connection.

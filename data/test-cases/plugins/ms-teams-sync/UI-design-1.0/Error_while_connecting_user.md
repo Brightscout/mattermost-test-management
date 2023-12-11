@@ -1,6 +1,6 @@
 ---
 # (Required) Ensure all values are filled up
-name: "RHS changes with respect to slash commands"
+name: "Updated RHS for errors while connecting a user"
 status: Active
 priority: Normal
 folder: UI-design-1.0
@@ -34,15 +34,8 @@ steps_hashed: null
 
 **Step 1**
 
-1. Connect the user to their MS Teams account using the `/msteams connect` slash command.
-2. Click and open the RHS.
-
-**Step 2**
-
-1. Disconnect the user from their MS Teams account using the `/msteams disconnect` slash command.
-2. Click and open the RHS.
+1. Any error occured while connecting the user to their MS Teams account.
 
 **Expected**
 
-The user account on MM should get connected to the account on MS Teams in the RHS on MM.
-After step 2, the user should be able to view the `Connect your Microsoft Teams account` modal in the RHS on MM and the account should get disconnected.
+The user should be able to view the `connect account` button in the RHS with the toast message in RHS regarding the failure of the connection due to an error.

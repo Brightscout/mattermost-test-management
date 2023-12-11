@@ -1,6 +1,6 @@
 ---
 # (Required) Ensure all values are filled up
-name: "RHS changes for error in connecting the user"
+name: "Updated RHS after disconnecting a user from their account on MM"
 status: Active
 priority: Normal
 folder: UI-design-1.0
@@ -34,8 +34,9 @@ steps_hashed: null
 
 **Step 1**
 
-1. Any error occured while connecting the user to their MS Teams account.
+1. Click on the `Disconnect button` in the RHS of MS Teams sync plugin, when the channels are linked from MM to MS Teams .
+2. Click on the `Disconnect button` in `Disconnect Microsoft Teams Account` modal on MM.
 
 **Expected**
 
-The user should be able to view the `Connect your Microsoft Teams account` modal in the RHS with the toast message regarding the failure of the connection due to any error on MM.
+The user should be able to see the request message to `connect your account` with the list of linked channels in the RHS.
