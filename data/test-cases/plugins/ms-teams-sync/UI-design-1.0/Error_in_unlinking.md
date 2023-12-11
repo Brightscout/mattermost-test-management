@@ -34,7 +34,15 @@ steps_hashed: null
 
 **Step 1**
 
+1. Any Error occured while unlinking a channel on MM.
+2. Click on `Try Again` button in the `unlink error` modal.
 
+**Step 2**
+
+1. Any Error occured while unlinking a channel on MM.
+2. Click on `Cancel` or `x` button in the `unlink error` modal.
 
 **Expected**
 
+The same channel unlinking should again start.
+After step 2, the unlinking should abort and the `unlink error` modal should close.

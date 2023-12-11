@@ -34,7 +34,8 @@ steps_hashed: null
 
 **Step 1**
 
-
+1. Error occured due to any reason after the channels are successfully linked on MM.
 
 **Expected**
 
+The error icon should appear on the link in the row of linked channel in RHS of MS Teams sync plugin on MM.

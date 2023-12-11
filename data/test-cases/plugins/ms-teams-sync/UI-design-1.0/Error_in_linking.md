@@ -34,7 +34,15 @@ steps_hashed: null
 
 **Step 1**
 
+1. Any Error occured while linking a channel on MM.
+2. Click on `Try Again` button in the `Unable to link channels` modal.
 
+**Step 2**
+
+1. Any Error occured while linking a channel on MM.
+2. Click on `Cancel` or `x` button in the `Unable to link channels` modal.
 
 **Expected**
 
+The same channel linking should again start.
+After step 2, the linking should abort and the `Unable to link channels` modal should close.

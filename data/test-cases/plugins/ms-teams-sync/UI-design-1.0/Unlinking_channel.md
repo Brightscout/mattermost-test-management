@@ -34,7 +34,15 @@ steps_hashed: null
 
 **Step 1**
 
+1. Hover over a row and click on unlink button in the list of linked channels in RHS of MS Teams sync plugin on MM.
+2. Click on `unlink channels` button in the `Unlink channel` modal on MM.
 
+**Step 2**
+
+1. Hover over a row and click on unlink button in the list of linked channels in RHS of MS Teams sync plugin on MM.
+2. Click on `cancel` or `x` button in the `Unlink channel` modal on MM.
 
 **Expected**
 
+The channel should get unlinked and the RHS should get updated.
+After step 2, the `Unlink channel` modal should close and the RHS should not update.
