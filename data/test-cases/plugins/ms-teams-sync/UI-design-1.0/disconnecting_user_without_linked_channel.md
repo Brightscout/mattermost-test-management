@@ -40,9 +40,9 @@ steps_hashed: null
 **Step 2**
 
 1. Click on the disconnect button in the RHS on MM.
-2. CLick on cancel button in the `Disconnect Microsoft teams account` modal.
+2. CLick on cancel button or `x` button in the `Disconnect Microsoft teams account` modal.
 
 **Expected**
 
 The user should be able to view the `Connect your Microsoft Teams account` modal in the RHS with the toast message regarding the disconnection of the user account on MM.
-After step 2, the account should not get affected.
+After step 2, the `Disconnect Microsoft teams account` modal should close and the user account connection should not get affected.
