@@ -34,15 +34,20 @@ steps_hashed: null
 
 **Step 1**
 
-1. Any Error occured while unlinking a channel on MM.
-2. Click on `Try Again` button in the `unlink error` modal.
+1. Any error occured while unlinking a channel on MM.
 
 **Step 2**
 
-1. Any Error occured while unlinking a channel on MM.
+1. Any error occured while unlinking a channel on MM.
+2. Click on `Try Again` button in the `unlink error` modal.
+
+**Step 3**
+
+1. Any error occured while unlinking a channel on MM.
 2. Click on `Cancel` or `x` button in the `unlink error` modal.
 
 **Expected**
 
-The same channel unlinking should again start.
-After step 2, the unlinking should abort and the `unlink error` modal should close.
+The `unlink error` modal should open on MM.
+After step 2, unlinking should again start for the same channels on MM.
+After step 3, the unlinking should abort and the `unlink error` modal should close and RHS of MS Teams sync plugin should not update.

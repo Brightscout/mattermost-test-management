@@ -34,15 +34,27 @@ steps_hashed: null
 
 **Step 1**
 
-1. Any Error occured while linking a channel on MM.
-2. Click on `Try Again` button in the `Unable to link channels` modal.
+1. Any error occured while linking a channel on MM.
 
 **Step 2**
 
-1. Any Error occured while linking a channel on MM.
+1. Any error occured while linking a channel on MM.
+2. Click on `Try Again` button in the `Unable to link channels` modal.
+
+**Step 3**
+
+1. Any error occured while linking a channel on MM.
 2. Click on `Cancel` or `x` button in the `Unable to link channels` modal.
+
+**Step 4**
+
+1. Connect the channel on MM to channel on MS Teams using slash command `/msteams-sync connect`.
+2. Click on the MS Teams sync icon in App bar or channel header and open the RHS.
+3. Click on link a channel and link the previously linked channel.
 
 **Expected**
 
-The same channel linking should again start.
-After step 2, the linking should abort and the `Unable to link channels` modal should close.
+The `Unable to link channels` modal should open on MM.
+After step 2, linking should again start for the same channels on MM.
+After step 3, the linking should abort and the `Unable to link channels` modal should close and the RHS of MS Teams sync plugin should not update.
+After step 4, The [modal name will be added] modal should open on MM.

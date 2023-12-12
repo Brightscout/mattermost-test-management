@@ -38,4 +38,4 @@ steps_hashed: null
 
 **Expected**
 
-The row should get highlighted upon hovering the cursor and the unlink button should become visible.
+The row should get highlighted upon hovering the cursor and the unlink button should become visible in the RHS of MS Teams sync plugin on MM.

@@ -34,7 +34,7 @@ steps_hashed: null
 
 **Step 1**
 
-1. Error occured due to any reason after the channels are successfully linked on MM.
+1. Any error occured in the link after the channels are successfully linked on MM.
 
 **Expected**
 

@@ -45,5 +45,5 @@ steps_hashed: null
 
 **Expected**
 
-The channel on MM should get linked to the channel on MS Teams and a toast message should be visible in the RHS for successfull connection with updation in the list of linked channels.
+The channel should get linked and a toast message should be visible in the RHS of MS Teams sync plugin for successfull connection with updation in the list of linked channels.
 After step 2, the `Link a channel` modal should close and the RHS should not update.
