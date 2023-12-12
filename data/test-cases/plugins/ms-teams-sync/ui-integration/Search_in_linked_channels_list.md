@@ -34,11 +34,11 @@ steps_hashed: null
 
 **Step 1**
 
-1. Enter linked channel name in the search bar above the list of linked channels in the RHS of MS Teams sync plugin on MM.
+1. Enter linked channel name in the search bar present above the list of linked channels in the RHS of MS Teams sync plugin on MM.
 
 **Step 2**
 
-1. Enter unlinked channel name on invalid channel name in the search bar above the list of linked channels in the RHS of MS Teams sync plugin on MM.
+1. Enter unlinked channel name or invalid channel name in the search bar present above the list of linked channels in the RHS of MS Teams sync plugin on MM.
 
 **Expected**
 

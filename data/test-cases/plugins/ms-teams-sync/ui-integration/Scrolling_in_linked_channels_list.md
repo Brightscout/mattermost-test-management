@@ -1,6 +1,6 @@
 ---
 # (Required) Ensure all values are filled up
-name: "Scrolling in the list of linked channels in RHS"
+name: "Infinite scroll in the list of linked channels in RHS"
 status: Active
 priority: Normal
 folder: ui-integration
@@ -38,4 +38,4 @@ steps_hashed: null
 
 **Expected**
 
-The user should be able to scroll down and up in the list of linked channels in the RHS of MS Teams sync plugin on MM.
+The user should be able to scroll down and up in the list of linked channels and verify all the linked channels are present in list in the RHS of MS Teams sync plugin on MM.

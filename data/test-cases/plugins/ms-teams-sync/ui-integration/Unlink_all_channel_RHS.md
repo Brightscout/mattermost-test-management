@@ -38,4 +38,4 @@ steps_hashed: null
 
 **Expected**
 
-The user should be able to see the `Link a channel` button in the RHS of MS Teams sync plugin on MM.
+The list of linked channels should be empty and the user should be able to see the `Link a channel` button in the RHS of MS Teams sync plugin on MM.
