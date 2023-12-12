@@ -1,6 +1,6 @@
 ---
 # (Required) Ensure all values are filled up
-name: "RHS changes after unlinking all channels"
+name: "RHS updates after unlinking all channels"
 status: Active
 priority: Normal
 folder: UI-design-1.0
@@ -34,8 +34,8 @@ steps_hashed: null
 
 **Step 1**
 
-1. Unlink all the linked channels from the list of linked channels on MM from RHS.
+1. Unlink all the linked channels from the list of linked channels on MM from RHS of MS Teams sync plugin.
 
 **Expected**
 
-The user should be able to see the `Link channel` modal in the RHS.
+The user should be able to see the `Link a channel` button in the RHS of MS Teams sync plugin on MM.

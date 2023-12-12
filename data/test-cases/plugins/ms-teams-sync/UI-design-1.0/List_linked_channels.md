@@ -34,8 +34,8 @@ steps_hashed: null
 
 **Step 1**
 
-1. Open the RHS when the user is connected to their MS Teams account and have linked channels from MM to MS Teams.
+1. Click on MS Teams sync icon in App bar or channel header and open the RHS when the channels are linked on MM.
 
 **Expected**
 
-The user should be able to see the list of linked channels with the search bar.
+The user should be able to see the list of linked channels in the RHS of MS Teams sync plugin on MM.

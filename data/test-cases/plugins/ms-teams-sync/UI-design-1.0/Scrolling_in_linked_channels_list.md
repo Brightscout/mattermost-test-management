@@ -34,8 +34,8 @@ steps_hashed: null
 
 **Step 1**
 
-1. Scroll down and up in the list of linked channels in the RHS.
+1. Scroll down and up in the list of linked channels in the RHS of MS Teams sync plugin on MM.
 
 **Expected**
 
-The user should be able to scroll down and up in the list of linked channels in RHS.
+The user should be able to scroll down and up in the list of linked channels in the RHS of MS Teams sync plugin on MM.

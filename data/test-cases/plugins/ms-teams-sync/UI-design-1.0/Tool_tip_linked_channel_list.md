@@ -34,8 +34,8 @@ steps_hashed: null
 
 **Step 1**
 
-1. Hover over the channel name in the list of linked channels in RHS.
+1. Hover over the channel name in the list of linked channels in RHS of MS Teams sync plugin on MM.
 
 **Expected**
 
-The user should be able to see the full name of the channel in the tool tip.
+The user should be able to see the full name of the channel in the tool tip in the RHS of MS Teams sync plugin on MM.
