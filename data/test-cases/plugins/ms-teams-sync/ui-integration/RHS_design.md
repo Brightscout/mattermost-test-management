@@ -43,4 +43,4 @@ steps_hashed: null
 **Expected**
 
 The user should be able to view the RHS of MS Teams sync plugin along with the `App bar` on the side on MM.
-After step 2, the user should be able to view the RHS of MS Teams sync plugin without the `App bar` on the side on MM.
+After step 2, the user should be able to view the RHS of MS Teams sync plugin on MM.

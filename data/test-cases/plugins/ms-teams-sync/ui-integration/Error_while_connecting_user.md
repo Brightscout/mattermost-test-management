@@ -38,4 +38,4 @@ steps_hashed: null
 
 **Expected**
 
-The current RHS state should persist and a toast message should appear in the RHS of MS Teams sync plugin regarding the failure of the connection due to an error.
+The current RHS state should persist and a toast message should appear in the RHS of MS Teams sync plugin regarding the failure of the user account connection due to an error.
