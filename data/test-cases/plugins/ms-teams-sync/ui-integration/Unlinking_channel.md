@@ -3,7 +3,7 @@
 name: "Unlinking a channel on MM"
 status: Active
 priority: Normal
-folder: UI-design-1.0
+folder: ui-integration
 authors: "@arush-vashishtha"
 team_ownership: []
 priority_p1_to_p4: P2 - Core Functions (Do core functions work?)
@@ -44,5 +44,5 @@ steps_hashed: null
 
 **Expected**
 
-The channel should get unlinked and the RHS should get updated.
-After step 2, the `Unlink channel` modal should close and the RHS of MS Teams sync plugin should not update.
+The channel should be unlinked and the RHS of MS Teams sync plugin should get updated.
+After step 2, the `Unlink channel` modal should close and the RHS of MS Teams sync plugin should persist it's state.

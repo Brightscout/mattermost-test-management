@@ -3,7 +3,7 @@
 name: "Linking a channel on MM"
 status: Active
 priority: Normal
-folder: UI-design-1.0
+folder: ui-integration
 authors: "@arush-vashishtha"
 team_ownership: []
 priority_p1_to_p4: P2 - Core Functions (Do core functions work?)
@@ -46,4 +46,4 @@ steps_hashed: null
 **Expected**
 
 The channel should get linked and a toast message should be visible in the RHS of MS Teams sync plugin for successfull connection with updation in the list of linked channels.
-After step 2, the `Link a channel` modal should close and the RHS should not update.
+After step 2, the `Link a channel` modal should close and the RHS should persist it's state.
