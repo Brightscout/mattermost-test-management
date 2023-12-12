@@ -1,9 +1,9 @@
 ---
 # (Required) Ensure all values are filled up
-name: "Updated RHS after connecting a user to their MS Teams account on MM"
+name: "RHS design with respect to enabling and disabling App bar"
 status: Active
 priority: Normal
-folder: UI-design-1.0
+folder: ui-integration
 authors: "@arush-vashishtha"
 team_ownership: []
 priority_p1_to_p4: P2 - Core Functions (Do core functions work?)
@@ -34,8 +34,13 @@ steps_hashed: null
 
 **Step 1**
 
-1. Connect the user to their MS Teams account from RHS on MM.
+1. When the `App bar` is enabled, click on the MS Teams sync icon and open the RHS.
+
+**Step 2**
+
+1. When the `App bar` is disabled, click on the MS Teams sync icon in the channel header and open the RHS.
 
 **Expected**
 
-The user account should get connected to their MS Teams account and the same should reflect in the RHS with a toast message regarding the successful connection.
+The user should be able to view the RHS of MS Teams sync plugin along with the `App bar` on the side on MM.
+After step 2, the user should be able to view the RHS of MS Teams sync plugin without the `App bar` on the side on MM.

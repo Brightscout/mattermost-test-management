@@ -1,9 +1,9 @@
 ---
 # (Required) Ensure all values are filled up
-name: "Validating the RHS design"
+name: "Updated RHS after connecting a user to their MS Teams account on MM"
 status: Active
 priority: Normal
-folder: UI-design-1.0
+folder: ui-integration
 authors: "@arush-vashishtha"
 team_ownership: []
 priority_p1_to_p4: P2 - Core Functions (Do core functions work?)
@@ -34,13 +34,8 @@ steps_hashed: null
 
 **Step 1**
 
-1. When the `App bar` is enabled, click on MS Teams icon and open the RHS.
-
-**Step 2**
-
-1. When the `App bar` is disabled, click on MS Teams icon in channel header and open the RHS.
+1. Connect the user to their MS Teams account from RHS on MM.
 
 **Expected**
 
-The user should be able to view the RHS of MS Teams along with the `App bar` in the side on MM.
-After step 2, the user should be able to view the RHS of MS Teams without `App bar` in the side and the MS Teams sync plugin icon in the channel header on MM.
+The user account should get connected to their MS Teams account and the same should be reflected in the RHS with a toast message regarding the successful connection.
