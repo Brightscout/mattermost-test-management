@@ -45,4 +45,4 @@ steps_hashed: null
 **Expected**
 
 The channel should get unlinked and the RHS should get updated.
-After step 2, the `Unlink channel` modal should close and the RHS should not update.
+After step 2, the `Unlink channel` modal should close and the RHS of MS Teams sync plugin should not update.
