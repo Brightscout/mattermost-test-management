@@ -1,9 +1,9 @@
 ---
 # (Required) Ensure all values are filled up
-name: "List of linked channels in RHS"
+name: "RHS updates after unlinking all channels"
 status: Active
 priority: Normal
-folder: ui-integration
+folder: ui-integration-phase-2
 authors: "@arush-vashishtha"
 team_ownership: []
 priority_p1_to_p4: P2 - Core Functions (Do core functions work?)
@@ -34,8 +34,8 @@ steps_hashed: null
 
 **Step 1**
 
-1. Click on MS Teams sync icon in App bar or channel header and open the RHS when the channels are linked on MM.
+1. Unlink all the linked channels from the `list of linked channels` on MM from RHS of MS Teams sync plugin.
 
 **Expected**
 
-The user should be able to see the list of linked channels in the RHS of MS Teams sync plugin on MM.
+The `list of linked channels` should be empty and the user should be able to see the `Link a channel` button in the RHS of MS Teams sync plugin on MM.

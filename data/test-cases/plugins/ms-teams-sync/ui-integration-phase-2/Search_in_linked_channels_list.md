@@ -3,7 +3,7 @@
 name: "Searching the linked channel in the list"
 status: Active
 priority: Normal
-folder: ui-integration
+folder: ui-integration-phase-2
 authors: "@arush-vashishtha"
 team_ownership: []
 priority_p1_to_p4: P2 - Core Functions (Do core functions work?)
@@ -34,13 +34,13 @@ steps_hashed: null
 
 **Step 1**
 
-1. Enter linked channel name in the search bar present above the list of linked channels in the RHS of MS Teams sync plugin on MM.
+1. Enter `linked channel` name in the search bar present above the `list of linked channels` in the RHS of MS Teams sync plugin on MM.
 
 **Step 2**
 
-1. Enter unlinked channel name or invalid channel name in the search bar present above the list of linked channels in the RHS of MS Teams sync plugin on MM.
+1. Enter `unlinked channel` name or `invalid channel` name in the search bar present above the `list of linked channels` in the RHS of MS Teams sync plugin on MM.
 
 **Expected**
 
-The user should be able to verify the searched linked channel in the list of linked channels in the RHS of MS Teams sync plugin on MM.
-After step 2, The user should get the search not found message in the RHS of MS Teams sync plugin on MM.
+The user should be able to verify the searched linked channel in the `list of linked channels` in the RHS of MS Teams sync plugin on MM.
+After step 2, The user should get the `search not found` message in the RHS of MS Teams sync plugin on MM.

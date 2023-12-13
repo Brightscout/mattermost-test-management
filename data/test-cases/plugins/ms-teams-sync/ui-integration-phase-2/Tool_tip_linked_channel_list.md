@@ -1,9 +1,9 @@
 ---
 # (Required) Ensure all values are filled up
-name: "RHS updates after unlinking all channels"
+name: "Tool tip upon hovering over the name of linked channel"
 status: Active
 priority: Normal
-folder: ui-integration
+folder: ui-integration-phase-2
 authors: "@arush-vashishtha"
 team_ownership: []
 priority_p1_to_p4: P2 - Core Functions (Do core functions work?)
@@ -34,8 +34,8 @@ steps_hashed: null
 
 **Step 1**
 
-1. Unlink all the linked channels from the list of linked channels on MM from RHS of MS Teams sync plugin.
+1. Hover over the channel name in the `list of linked channels` in the RHS of MS Teams sync plugin on MM.
 
 **Expected**
 
-The list of linked channels should be empty and the user should be able to see the `Link a channel` button in the RHS of MS Teams sync plugin on MM.
+The user should be able to see the full name of the channel in the tool tip in the RHS of MS Teams sync plugin on MM.
