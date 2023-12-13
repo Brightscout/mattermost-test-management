@@ -3,7 +3,7 @@
 name: "Error while linking a channel on MM"
 status: Active
 priority: Normal
-folder: ui-integration
+folder: ui-integration-phase-3
 authors: "@arush-vashishtha"
 team_ownership: []
 priority_p1_to_p4: P2 - Core Functions (Do core functions work?)
@@ -55,6 +55,6 @@ steps_hashed: null
 **Expected**
 
 The `Unable to link channels` modal should open on MM.
-After step 2, `Link a channel` modal should again open.
+After step 2, `Link a channel` modal should again open on MM.
 After step 3, the linking should abort and the `Unable to link channels` modal should close and the RHS of MS Teams sync plugin should persist it's state.
 After step 4, The [modal name will be added] modal should open on MM.

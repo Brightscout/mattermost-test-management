@@ -3,7 +3,7 @@
 name: "Error after linking a channel on MM"
 status: Active
 priority: Normal
-folder: ui-integration
+folder: ui-integration-phase-3
 authors: "@arush-vashishtha"
 team_ownership: []
 priority_p1_to_p4: P2 - Core Functions (Do core functions work?)
@@ -38,4 +38,4 @@ steps_hashed: null
 
 **Expected**
 
-The error icon should appear on the link in the row of linked channel in the RHS of MS Teams sync plugin on MM.
+The error icon should appear on the link in the row of linked channel in `list of linked channels` in the RHS of MS Teams sync plugin on MM.
