@@ -34,7 +34,7 @@ steps_hashed: null
 
 **Step 1**
 
-1. Click on MS Teams sync icon in App bar or channel header and open the RHS when there are linked channels on MM.
+1. Click on MS Teams sync icon in App bar or channel header and open the RHS when there are MM channels liked to MS Teams channel.
 
 **Expected**
 

@@ -49,6 +49,6 @@ steps_hashed: null
 
 **Expected**
 
-The user should be able to verify the linked channel in the `list of linked channels` in the RHS of MS Teams sync plugin on MM.
+The user should be able to verify the newly linked channel in the `list of linked channels` in the RHS of MS Teams sync plugin on MM.
 After step 2, the desired channel should be unlinked and should not be present in the `list of linked channels` in the RHS of MS Teams sync plugin on MM.
 After step 3, the `list of linked channels` should be empty and the user should be able to see the `Link a channel` button in the RHS of MS Teams sync plugin on MM.
