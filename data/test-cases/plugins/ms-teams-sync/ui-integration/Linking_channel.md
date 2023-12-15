@@ -64,5 +64,5 @@ steps_hashed: null
 The desired channel should get linked and a toast message should be visible in the RHS of MS Teams sync plugin for successfull linking with an update in the list of linked channels on MM.
 After step 2, the `Link a channel` dialog should close and the RHS should persist its state.
 After step 3, the `Link channels` button should be disabled in the `Link a channel` dialog.
-After step 4, the dropdown list should be disabled for the `Microsoft channel` when the `Mattermost channel` and `Microsoft team` are not selected in the `Link a channel` dialog.
-After step 5, the desired channel should get linked and a toast message should be visible in the RHS of MS Teams sync plugin for successfull linking with an update in the list of linked channels on MM.
+After step 4, the dropdown list should be disabled for the `Microsoft Teams channel` when the `Microsoft Teams team` is not selected in the `Link a channel` dialog.
+After step 5, the desired channel should get linked and a toast message should be visible in the RHS of the MS Teams sync plugin for successful linking with an update in the list of linked channels on MM.
