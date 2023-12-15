@@ -35,17 +35,17 @@ steps_hashed: null
 **Step 1**
 
 1. Link an unlinked channel by running the slash command `/msteams-sync link <msteams-teamID> <msteams-channelID>` on MM.
-2. Click on MS Teams sync plugin icon in App bar or channel header and open the RHS on MM.
+2. Click on the MS Teams sync plugin icon in the app bar or channel header and open the RHS on MM.
 
 **Step 2**
 
 1. Unlink an linked channel by running the slash command `/msteams-sync unlink` on MM.
-2. Click on MS Teams sync plugin icon in App bar or channel header and open the RHS on MM.
+2. Click on the MS Teams sync plugin icon in the app bar or channel header and open the RHS on MM.
 
 **Step 3**
 
 1. Unlink all linked channels by running the slash command `/msteams-sync unlink` in all linked channels on MM.
-2. Click on MS Teams sync plugin icon in App bar or channel header and open the RHS on MM.
+2. Click on the MS Teams sync plugin icon in the app bar or channel header and open the RHS on MM.
 
 **Expected**
 
