@@ -52,5 +52,5 @@ steps_hashed: null
 
 The user should be able to see the list of linked channels in the RHS of the MS Teams sync plugin in which they are added as a member in MM.
 After step 2, the user should be able to see the list of all the linked channels in the RHS of the MS Teams sync plugin on MM.
-After step 3, the `List of linked channels` should be empty and the user should be able to see the `Link a channel` button in the RHS of the MS Teams sync plugin on MM.
-After step 4, the user should be able to see the `Request message` to connect their MS Teams account along with the `List of linked channels` in the RHS and the toast message regarding the successful disconnection of their MS Teams account.
+After step 3, the `list of linked channels` should be empty and the user should be able to see the `Link a channel` button in the RHS of the MS Teams sync plugin on MM.
+After step 4, the user should be able to see the `Request message` to connect their MS Teams account along with the `list of linked channels` in the RHS and the toast message regarding the successful disconnection of their MS Teams account.
