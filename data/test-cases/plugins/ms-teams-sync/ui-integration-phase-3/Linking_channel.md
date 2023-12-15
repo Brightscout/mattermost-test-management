@@ -36,14 +36,14 @@ steps_hashed: null
 
 1. Click on the `Link a channel` button in the RHS of MS Teams sync plugin on MM.
 2. Select the desired `Mattermost channel`, the desired `Microsoft team` and a desired `Microsoft channel` for the selected MS team in the `Link a channel` modal.
-3. Click on `Link channels` button on the `Link a channel` modal.
+3. Click on `Link channels` button in the `Link a channel` dialog.
 
 **Step 2**
 
 1. Click on the `Link a channel` button in the RHS of MS Teams sync plugin on MM.
-2. Click on the `cancel` or `x` button on the `Link a channel` modal.
+2. Click on the `cancel` or `x` button in the `Link a channel` dialog.
 
 **Expected**
 
 The desired channel should get linked and a toast message should be visible in the RHS of MS Teams sync plugin for successfull connection with updation in the list of linked channels on MM.
-After step 2, the `Link a channel` modal should close and the RHS should persist it's state.
+After step 2, the `Link a channel` dialog should close and the RHS should persist it's state.
