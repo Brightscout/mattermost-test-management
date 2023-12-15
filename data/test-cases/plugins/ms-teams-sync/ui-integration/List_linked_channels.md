@@ -38,11 +38,11 @@ steps_hashed: null
 
 **Step 2**
 
-1. Click on MS Teams sync icon in App bar or channel header and open the RHS when there are MM channels linked to MS Teams channel and the logged in user is a normal user.
+1. Click on MS Teams sync icon in App bar or channel header and open the RHS when there are MM channels linked to MS Teams channel and the logged-in user is a `normal user`.
 
 **Step 3**
 
-1. Click on MS Teams sync icon in App bar or channel header and open the RHS when there are MM channels linked to MS Teams channel and the logged in user is a system admin.
+1. Click on MS Teams sync icon in App bar or channel header and open the RHS when there are MM channels linked to MS Teams channel and the logged-in user is a `system admin`.
 
 **Expected**
 
