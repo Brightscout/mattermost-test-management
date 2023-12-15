@@ -38,4 +38,4 @@ steps_hashed: null
 
 **Expected**
 
-The user should be able to scroll in the `list of linked channels` and verify all the linked channels are present in list in the RHS of MS Teams sync plugin on MM.
+The user should be able to scroll in the `list of linked channels` and verify all the linked channels are present in list in the RHS of the MS Teams sync plugin on MM.

@@ -43,4 +43,4 @@ steps_hashed: null
 **Expected**
 
 The user should be able to verify the searched linked channel in the `list of linked channels` in the RHS of the MS Teams sync plugin on MM.
-After step 2, the user should get the `search not found` message in the RHS of MS Teams sync plugin on MM.
+After step 2, the user should get the `search not found` message in the RHS of the MS Teams sync plugin on MM.

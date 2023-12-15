@@ -26,7 +26,7 @@ manual_test_environments: []
 # Do not change
 id: null
 key: null
-created_on: null
+created_on: nullthe `list of linked channels` should be empty and the user should be able to see the `Link a channel` button in the RHS of MS Teams sync plugin on MM.
 last_updated: null
 case_hashed: null
 steps_hashed: null
@@ -40,7 +40,12 @@ steps_hashed: null
 
 1. Click on the MS Teams sync icon in the app bar or channel header to open the RHS when there are MM channels linked to the MS Teams channel and the logged-in user is a `system admin`.
 
+**Step 3**
+
+1. Click on the MS Teams sync icon in the app bar or channel header to open the RHS when there are no MM channels linked to the MS Teams channel.
+
 **Expected**
 
 The user should be able to see the list of linked channels in the RHS of the MS Teams sync plugin in which they are added as a member in MM.
 After step 2, the user should be able to see the list of all the linked channels in the RHS of the MS Teams sync plugin on MM.
+After step 3, the `list of linked channels` should be empty and the user should be able to see the `Link a channel` button in the RHS of the MS Teams sync plugin on MM.

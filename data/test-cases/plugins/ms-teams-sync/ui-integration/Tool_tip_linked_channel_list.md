@@ -38,4 +38,4 @@ steps_hashed: null
 
 **Expected**
 
-The user should be able to see the full name of the channel or team in the tooltip in the RHS of MS Teams sync plugin on MM.
+The user should be able to see the full name of the channel or team in the tooltip in the RHS of the MS Teams sync plugin on MM.
