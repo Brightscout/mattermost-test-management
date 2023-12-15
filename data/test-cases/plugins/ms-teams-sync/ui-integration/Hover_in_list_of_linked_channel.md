@@ -34,8 +34,8 @@ steps_hashed: null
 
 **Step 1**
 
-1. Hover cursor over the row of linked channels in the list in RHS of MS Teams sync plugin on MM.
+1. Hover the cursor over the row of linked channels in the list in RHS of the MS Teams sync plugin on MM.
 
 **Expected**
 
-The row should get highlighted upon hovering the cursor and the unlink button should become visible in the RHS of MS Teams sync plugin on MM.
+The row should get highlighted upon hovering the cursor and the unlink button should become visible in the RHS of the MS Teams sync plugin on MM.
