@@ -3,7 +3,7 @@
 name: "Tool tip upon hovering over the name of linked channel"
 status: Active
 priority: Normal
-folder: ui-integration-phase-2
+folder: ui-integration
 authors: "@arush-vashishtha"
 team_ownership: []
 priority_p1_to_p4: P2 - Core Functions (Do core functions work?)
