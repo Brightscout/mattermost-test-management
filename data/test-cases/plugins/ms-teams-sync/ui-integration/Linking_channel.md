@@ -3,7 +3,7 @@
 name: "Linking a channel on MM"
 status: Active
 priority: Normal
-folder: ui-integration-phase-3
+folder: ui-integration
 authors: "@arush-vashishtha"
 team_ownership: []
 priority_p1_to_p4: P2 - Core Functions (Do core functions work?)
