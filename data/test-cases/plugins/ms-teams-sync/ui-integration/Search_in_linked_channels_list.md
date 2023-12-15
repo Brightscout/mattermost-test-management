@@ -34,13 +34,13 @@ steps_hashed: null
 
 **Step 1**
 
-1. Enter `linked channel` name in the search bar present above the `list of linked channels` in the RHS of MS Teams sync plugin on MM.
+1. Enter the `mattermost linked channel` name in the search bar present above the `list of linked channels` in the RHS of the MS Teams sync plugin on MM.
 
 **Step 2**
 
-1. Enter `unlinked channel` name or `invalid channel` name in the search bar present above the `list of linked channels` in the RHS of MS Teams sync plugin on MM.
+1. Enter the `mattermost unlinked channel` name or `invalid channel` name in the search bar present above the `list of linked channels` in the RHS of the MS Teams sync plugin on MM.
 
 **Expected**
 
-The user should be able to verify the searched linked channel in the `list of linked channels` in the RHS of MS Teams sync plugin on MM.
-After step 2, The user should get the `search not found` message in the RHS of MS Teams sync plugin on MM.
+The user should be able to verify the searched linked channel in the `list of linked channels` in the RHS of the MS Teams sync plugin on MM.
+After step 2, the user should get the `search not found` message in the RHS of MS Teams sync plugin on MM.

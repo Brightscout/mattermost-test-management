@@ -1,6 +1,6 @@
 ---
 # (Required) Ensure all values are filled up
-name: "Tool tip upon hovering over the name of linked channel"
+name: "Tooltip on hovering over the linked channel details."
 status: Active
 priority: Normal
 folder: ui-integration
@@ -34,8 +34,8 @@ steps_hashed: null
 
 **Step 1**
 
-1. Hover over the channel name in the `list of linked channels` in the RHS of MS Teams sync plugin on MM.
+1. Hover over the channel name or team name in the `list of linked channels` in the RHS of MS Teams sync plugin on MM.
 
 **Expected**
 
-The user should be able to see the full name of the channel in the tool tip in the RHS of MS Teams sync plugin on MM.
+The user should be able to see the full name of the channel or team in the tooltip in the RHS of MS Teams sync plugin on MM.
