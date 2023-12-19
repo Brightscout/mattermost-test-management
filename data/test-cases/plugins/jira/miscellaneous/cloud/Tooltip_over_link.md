@@ -3,7 +3,7 @@
 name: "Tooltip over link is showing correct ticket information on the cloud instance."
 status: Active
 priority: Normal
-folder: miscellaneous/cloud
+folder: Cloud
 authors: "@arush-vashishtha"
 team_ownership: []
 priority_p1_to_p4: P2 - Core Functions (Do core functions work?)
