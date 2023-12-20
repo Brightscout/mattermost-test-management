@@ -1,6 +1,6 @@
 ---
 # (Required) Ensure all values are filled up
-name: "Tooltip over link is showing correct ticket information on the cloud instance."
+name: "Tooltip over link is showing correct ticket information on the Jira cloud instance."
 status: Active
 priority: Normal
 folder: Cloud
@@ -34,18 +34,18 @@ steps_hashed: null
 
 **Step 1**
 
-1. Connect your jira account on you MM account and refresh the page.
-2. Hover the cursor over any issue link present in any desired channel or DM/GM.
+1. Connect your Jira account with your MM account and refresh the page.
+2. Hover the cursor over any Jira issue link present in any desired channel or DM/GM.
 
 **Step 2**
 
-1. Edit the issue whose link is already present in any desired channel or DM/GM on MM.
-2. Navigate to the channel where the link already exists and refresh the page.
+1. Edit the issue on Jira cloud whose link is already present in any desired channel or DM/GM on MM.
+2. Navigate to the channel on MM where the link already exists and refresh the page.
 3. Hover the cursor over the edited issue link in the desired channel or DM/GM on MM.
 
 **Step 3**
 
-1. Delete the issue whose link is already present in any desired channel or DM/GM on MM.
+1. Delete the issue on Jira cloud whose link is already present in any desired channel or DM/GM on MM.
 2. Navigate to the channel where the link already exists and refresh the page.
 3. Hover the cursor over the edited issue link in the desired channel or DM/GM on MM.
 
