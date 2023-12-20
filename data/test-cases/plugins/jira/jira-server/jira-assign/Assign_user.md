@@ -1,9 +1,9 @@
 ---
 # (Required) Ensure all values are filled up
-name: "Tooltip over link is showing correct ticket information on the cloud instance."
+name: "Assignee a user to a jira issue through slash command."
 status: Active
 priority: Normal
-folder: Cloud
+folder: Jira-assign
 authors: "@arush-vashishtha"
 team_ownership: []
 priority_p1_to_p4: P2 - Core Functions (Do core functions work?)
