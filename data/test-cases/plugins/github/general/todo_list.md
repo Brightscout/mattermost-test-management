@@ -55,13 +55,23 @@ steps_hashed: null
 
 **Step 5**
 
-1. Approve any pending requested review on the connected account on github.
+1. Approve any desired pending requested review on the connected account on github.
 2. Enter the `/github todo` command in any desired channel or DM/GM on MM.
 
 **Step 6**
 
-1. Approve any pending requested review on the connected account on github.
-2. Enter the `/github todo` command in any desired channel or DM/GM on MM.
+1. Click on the desired `owner` or `organisation` hyperlink part of the generated list on MM.
+
+**Step 7**
+
+1. Click on the desired <description> hyperlink part of the generated list on MM.
 
 **Expected**
 
+The generated message should show the list for unread messages, review requests, open PRs and user's assignments with the formats, `owner or organisation/repo <event> : <description>` or `owner or organisation/repo : <description>` in the desired channel or DM/GM on MM.
+After step 2, the generated message should not show the closed events in the desired channel or DM/GM on MM.
+After step 3, the desired PR should not be visible in the generated message in the desired channel or DM/GM on MM.
+After step 4, the desired message should not be visible in the generated message in the desired channel or DM/GM on MM. 
+After step 5, the desired pending request should not be visible in the generated in the desired channel or DM/GM on MM.
+After step 6, the user should be redirected to the owner account or organisation on github respectively. 
+After step 7, the user should be redirected to the event on github.
