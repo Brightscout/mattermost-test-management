@@ -73,5 +73,5 @@ After step 2, the generated message should not show the closed events in the des
 After step 3, the desired PR should not be visible in the generated message in the desired channel or DM/GM on MM.
 After step 4, the desired message should not be visible in the generated message in the desired channel or DM/GM on MM. 
 After step 5, the desired pending request should not be visible in the generated in the desired channel or DM/GM on MM.
-After step 6, the user should be redirected to the owner account or organisation on github respectively. 
-After step 7, the user should be redirected to the event on github.
+After step 6, the user should be redirected to the desired owner account or organisation on github respectively. 
+After step 7, the user should be redirected to the desired event on github.
