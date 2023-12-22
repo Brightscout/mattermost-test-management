@@ -1,6 +1,6 @@
 ---
 # (Required) Ensure all values are filled up
-name: "Assignee a user to a jira issue through slash command."
+name: "Assign a Jira issue to a user through slash command."
 status: Active
 priority: Normal
 folder: Jira-assign
@@ -34,23 +34,23 @@ steps_hashed: null
 
 **Step 1**
 
-1. Add a issue key in the following slash command `/jira assign [issue key] [assignee]` in the channel on MM.
-2. Add the MM user name in the [assignee] in above command followed by a `@` when the user's MM account is connected to jira account.
+1. Run the `/jira assign` and add the desired issue key in the slash command in the channel on MM.
+2. Add the MM username in the <assignee> in above command followed by a `@` when the user's MM account is connected to jira account.
 
 **Step 2**
 
-1. Add a issue key in the following slash command `/jira assign [issue key] [assignee]` in the channel on MM.
-2. Add the MM user name in the [assignee] in above command not followed by a `@` when the user's MM account is connected or disconnected to jira account.
+1. Run the `/jira assign` and add the desired issue key in the slash command in the channel on MM.
+2. Add the MM username in the <assignee> in above command not followed by a `@` when the user's MM account is connected or disconnected to jira account.
 
 **Step 3**
 
-1. Add a issue key in the following slash command `/jira assign [issue key] [assignee]` in the channel on MM.
-2. Add the MM user name in the [assignee] in above command when the user's MM account is disconnected to jira account.
+1. Run the `/jira assign` and add the desired issue key in the slash command in the channel on MM.
+2. Add the MM username in the <assignee> in above command when the user's MM account is disconnected to jira account.
 
 **Step 4**
 
-1. Add a issue key in the following slash command `/jira assign [issue key] [assignee]` in the channel on MM.
-2. Add the jira user name in the [assignee] in above command not followed by a `@` when the user's MM account is connected or disconnected to their jira account.
+1. Run the `/jira assign` and add the desired issue key in the slash command in the channel on MM.
+2. Add the jira username in the <assignee> in above command not followed by a `@` when the user's MM account is connected or disconnected to their jira account.
 
 **Expected**
 
