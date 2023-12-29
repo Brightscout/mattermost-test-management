@@ -35,7 +35,7 @@ steps_hashed: null
 **Step 1**
 
 1. Connect your github account to MM and create a subsciption for any desired event discussion, issue, pulls, etc;
-2. trigger the desired event on the connected github repo/organization.
+2. Trigger the desired event on the connected github repo/organization.
 3. Run the `/github todo` command in any desired channel or DM/GM on MM.
 
 **Step 2**
