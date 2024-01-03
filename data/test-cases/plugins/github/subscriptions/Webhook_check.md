@@ -1,6 +1,6 @@
 ---
 # (Required) Ensure all values are filled up
-name: "An ephemeral post is generated in the channel or DM/GM if the webhook is not found on the github side."
+name: "An ephemeral post in the chat for when the webhook is not found on the github side."
 status: Active
 priority: Normal
 folder: Subscriptions

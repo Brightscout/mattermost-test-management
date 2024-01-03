@@ -39,4 +39,4 @@ steps_hashed: null
 
 **Expected**
 
-The user should be able to view the message and verify the newly added subscriptions along with the previously added subscriptions in the desired channel or DM/GM on MM.
+The user should be able to view the message and verify the newly added subscriptions along with the previously added subscriptions which got overwritten in the desired channel or DM/GM on MM.
