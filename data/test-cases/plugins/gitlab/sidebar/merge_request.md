@@ -46,5 +46,5 @@ steps_hashed: null
 
 **Expected**
 
-The member access request to a project/group should show the description of the request in proper UI on MM.
-After step 2, the desired member access request should be removed from the `To-do list` on MM.
+The member access request to a project/group should show the description of the request in proper UI in RHS of Gitlab on MM.
+After step 2, the desired member access request should be removed from the `To-do list` in RHS of Gitlab on MM.
