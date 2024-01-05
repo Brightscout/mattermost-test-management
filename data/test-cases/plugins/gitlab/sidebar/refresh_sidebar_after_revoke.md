@@ -52,6 +52,6 @@ steps_hashed: null
 
 **Expected**
 
-The LHS of Gitlab should be removed and the user should get a message in the DM from Gitlab bot that the account has been disconnected on MM.
-After step 2, the LHS of Gitlab should be removed and the user should get a message in the DM from Gitlab bot that the account has been disconnected on MM.
-After step 3, the LHS of Gitlab should be removed and the user should get a message in the DM from Gitlab bot that the account has been disconnected on MM.
+All the Gitlab icons in the LHS should be removed and the user should get a message in the DM from Gitlab bot that the account has been disconnected on MM.
+After step 2, all the Gitlab icons in the LHS should be removed and the user should get a message in the DM from Gitlab bot that the account has been disconnected on MM.
+After step 3, all the Gitlab icons in the LHS should be removed and the user should get a message in the DM from Gitlab bot that the account has been disconnected on MM. 
