@@ -42,8 +42,8 @@ steps_hashed: null
 **Step 2**
 
 1. Connect the Zoom account to your MM account.
-2. Create a Zoom meeting by clicking on the Zoom icon in the app bar in any desired channel or DM/GM on MM.
-3. Navigate to the desired thread and again click on the Zoom icon in the app bar in the desired channel or DM/GM on MM.
+2. Create a Zoom meeting by clicking on the Zoom icon in the app bar/channel header in any desired channel or DM/GM on MM.
+3. Navigate to the desired thread and again click on the Zoom icon in the app bar/channel header in the desired channel or DM/GM on MM.
 4. Click on the `Create new meeting` option in the slack attachment for Zoom meeting in the desired channel or DM/GM on MM.
 
 **Step 3**
