@@ -52,7 +52,7 @@ steps_hashed: null
 
 **Step 4**
 
-1. Crete a link for a non existing issue on Gitlab and paste it in any desired channel or DM/GM on MM.
+1. Enter a link of a non existing issue on Gitlab and paste it in any desired channel or DM/GM on MM.
 2. Hover the cursor over the link of the issue on MM.
 
 **Step 5**
