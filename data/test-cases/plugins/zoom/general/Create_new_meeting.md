@@ -35,24 +35,24 @@ steps_hashed: null
 **Step 1**
 
 1. Connect the Zoom account to your MM account.
-2. Create a Zoom meeting by slash command `/zoom start <meeting topic>` in any desired channel or DM/GM on MM.
+2. Create a Zoom meeting by running the slash command `/zoom start <meeting topic>` in any desired channel or DM/GM on MM.
 3. Again run the slash command `/zoom start <meeting topic>` in the desired channel or DM/GM on MM.
 4. Click on the `Create new meeting` option in the slack attachment for Zoom meeting in the desired channel or DM/GM on MM.
 
 **Step 2**
 
 1. Connect the Zoom account to your MM account.
-2. Create a Zoom meeting by clicking on the zoom icon in the app bar in any desired channel or DM/GM on MM.
-3. Again click on the zoom icon in the app bar in the desired channel or DM/GM on MM.
+2. Create a Zoom meeting by clicking on the Zoom icon in the app bar in any desired channel or DM/GM on MM.
+3. Navigate to the desired thread and again click on the Zoom icon in the app bar in the desired channel or DM/GM on MM.
 4. Click on the `Create new meeting` option in the slack attachment for Zoom meeting in the desired channel or DM/GM on MM.
 
 **Step 3**
 
-1. Create a new meeting by clicking on the `Create new meeting` option in the slack attachment for zoom meeting in any desired channel or DM/GM on MM.
-2. Again navigate to the desired channel or DM/GM on MM without ending the meeting on Zoom and click on the `Create new meeting` option on the slack attachment.
+1. Create a new meeting by clicking on the `Create new meeting` option in the slack attachment for Zoom meeting in any desired channel or DM/GM on MM.
+2. Navigate to the desired channel or DM/GM on MM without ending the meeting on Zoom and click on the `Create new meeting` option on the existing slack attachment for Zoom meeting.
 
 **Expected**
 
-The user should get redirected to the new zoom meeting or should get a slack attachment for selecting the meeting ID in the desired channel or DM/GM on MM.
-After step 2, the user should get redirected to the new zoom meeting or should get a slack attachment for selecting the meeting ID in the desired channel or DM/GM on MM.
-After step 3, the user should get redirected to the new zoom meeting or should get a slack attachment for selecting the meeting ID in the desired channel or DM/GM on MM.
+The user should get redirected to the new Zoom meeting or should get a slack attachment for selecting the meeting ID in the desired channel or DM/GM on MM.
+After step 2, the user should get redirected to the new Zoom meeting or should get a slack attachment for selecting the meeting ID in the desired channel or DM/GM on MM.
+After step 3, the user should get redirected to the new Zoom meeting or should get a slack attachment for selecting the meeting ID in the desired channel or DM/GM on MM.
