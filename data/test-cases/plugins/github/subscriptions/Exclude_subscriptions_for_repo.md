@@ -33,15 +33,15 @@ steps_hashed: null
 
 **Step 1**
 
-1. Enter the slash command `/github subscriptions add <organization> --feature <events> --exclude <repository>` in the desired channel or DM/GM on MM and create subscription for a organization with more than one repository and exclude any desired repository.
-2. Create the desired event in the desired exclude repository on the Github and navigate to the desired channel or DM/GM on MM.
+1. Enter the slash command `/github subscriptions add <organization> --feature <events> --exclude <repository>` in the desired channel or DM/GM on MM and create a subscription for an organization with more than one repository and exclude any desired repository in that organization.
+2. Trigger the desired event in the desired exclude repository on the Github and navigate to the desired channel or DM/GM on MM.
 
 **Step 2**
 
-1. Enter the slash command `/github subscriptions add <organization> --feature <events> --exclude <repository>` in the desired channel or DM/GM on MM and create subscription for a organization with more than one repository and exclude any desired repository.
-2. Create the desired event in any desired repository except the excluded ones on the Github and navigate to the desired channel or DM/GM on MM.
+1. Enter the slash command `/github subscriptions add <organization> --feature <events> --exclude <repository>` in the desired channel or DM/GM on MM and create a subscription for an organization with more than one repository and exclude any desired repository in that organization.
+2. Trigger the desired event in any desired repository except the excluded ones on the Github and navigate to the desired channel or DM/GM on MM.
 
 **Expected**
 
-No event message should be shown in the desired channel or DM/GM on MM.
-After step 2, the event message should be shown in the desired channel or DM/GM on MM.
+No notification should be generated for the triggered event in the desired channel or DM/GM on MM.
+After step 2, notification of the triggered event should be shown in the desired channel or DM/GM on MM.
