@@ -1,6 +1,6 @@
 ---
 # (Required) Ensure all values are filled up
-name: "Click on Create new meeting when a meeting was already created."
+name: "Click on `Create new meeting` option when a meeting was already created."
 status: Active
 priority: Normal
 folder: General
