@@ -1,6 +1,6 @@
 ---
 # (Required) Ensure all values are filled up
-name: "Creating meeting through Zoom icon in the App bar."
+name: "Creating meeting through Zoom icon in the App bar/channel header."
 status: Active
 priority: Normal
 folder: General
@@ -36,36 +36,36 @@ steps_hashed: null
 
 1. Connect your Zoom account to your MM account using the slash command `/zoom connect`.
 2. Set the Zoom setting using the slash command `/zoom settings` to `Yes` for using Personal Meeting ID when starting a meeting.
-3. Click on the Zoom icon in the app bar when there is no other new Zoom meeting in the channel or DM/GM on MM.
+3. Click on the Zoom icon in the app bar/channel header when there is no other new Zoom meeting in the channel or DM/GM on MM.
 
 **Step 2**
 
 1. Connect your Zoom account to your MM account using the slash command `/zoom connect`.
 2. Set the Zoom setting using the slash command `/zoom settings` to `No` for using Personal Meeting ID when starting a meeting.
-3. Click on the Zoom icon in the app bar when there is no other new Zoom meeting in the channel or DM/GM on MM.
+3. Click on the Zoom icon in the app bar/channel header when there is no other new Zoom meeting in the channel or DM/GM on MM.
 
 **Step 3**
 
 1. Connect your Zoom account to your MM account using the slash command `/zoom connect`.
 2. Set the Zoom setting using the slash command `/zoom settings` to `Ask` for using Personal Meeting ID when starting a meeting.
-3. Click on the Zoom icon in the app bar when there is no other new Zoom meeting in the channel or DM/GM on MM.
+3. Click on the Zoom icon in the app bar/channel header when there is no other new Zoom meeting in the channel or DM/GM on MM.
 
 **Step 4**
 
 1. Connect your Zoom account to your MM account using the slash command `/zoom connect`.
 2. Create a meeting using the slash command `/zoom start <meeting topic>` in any desired channel or DM/GM on MM.
-3. Click on the Zoom icon in the app bar in the desired channel or DM/GM on MM.
+3. Click on the Zoom icon in the app bar/channel header in the desired channel or DM/GM on MM.
 
 **Step 5**
 
 1. Connect your Zoom account to your MM account using the slash command `/zoom connect`.
-2. Create a meeting using the Zoom icon in the app bar in any desired channel or DM/GM on MM.
-3. Click on the Zoom icon in the app bar in the desired channel or DM/GM on MM.
+2. Create a meeting using the Zoom icon in the app bar/channel header in any desired channel or DM/GM on MM.
+3. Click on the Zoom icon in the app bar/channel header in the desired channel or DM/GM on MM.
 
 **Expected**
 
 The user should be navigated to the Zoom meeting with the Personal Meeting ID on Zoom.
 After step 2, the user should be navigated to the Zoom meeting wtih Unique Meeting ID on Zoom.
-After step 3, the user should get the message to select the type of meeting to create in the desired channel or DM/GM on MM.
-After step 4, the user should get the message about already created Zoom meeting and should get the option to select `Create New Meeting` or `Join Existing Meeting` in the desired channel or DM/GM on MM.
-After step 5, the user should get the message about already created Zoom meeting and should get the option to select `Create New Meeting` or `Join Existing Meeting` in the desired channel or DM/GM on MM.
+After step 3, the user should get the slack attachment to select the type of meeting to create in the desired channel or DM/GM on MM.
+After step 4, the user should get the message about already created Zoom meeting and should get the slack attachment with option to select `Create New Meeting` or `Join Existing Meeting` in the desired channel or DM/GM on MM.
+After step 5, the user should get the message about already created Zoom meeting and should get the slack attachment with option to select `Create New Meeting` or `Join Existing Meeting` in the desired channel or DM/GM on MM.
