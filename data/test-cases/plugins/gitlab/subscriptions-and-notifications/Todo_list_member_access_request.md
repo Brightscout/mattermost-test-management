@@ -34,10 +34,9 @@ steps_hashed: null
 
 **Step 1**
 
-1. Create subscription in any desired channel or DM/Gm on MM to any desired public project in a public group on gitlab.
-2. Create a member access request from a different user to the desired public project on gitlab.
-3. Navigate to the desired channel or DM/GM on MM and enter the slash command `/gitlab todo`.
+1. Create a `member access request` from a different user to any one of your desired public project/group on gitlab.
+2. Navigate to the desired channel or DM/GM on MM and enter the slash command `/gitlab todo`.
 
 **Expected**
 
-The user should get a list of todo and the notification for member access request should follow the format, `member_access_requested : <user> has requested access to <owner/repo>`.
+The user should get a list of todo in the desired channel or DM/GM on MM and the notification for member access request should follow the format, `member_access_requested : <user> has requested access to <owner/repo>`.

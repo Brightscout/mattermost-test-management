@@ -1,6 +1,6 @@
 ---
 # (Required) Ensure all values are filled up
-name: "Create a Gitlab issue from the context menu on MM."
+name: "Add comment to a gitlab issue from the `Attach Message to GitLab Issue` option in the context menu on MM."
 status: Active
 priority: Normal
 folder: Context-menu-feature
@@ -34,7 +34,7 @@ steps_hashed: null
 
 **Step 1**
 
-1. Hover cursor over a non-system message and click on the `message-actions` then select `Attach Message to GitLab Issue` on MM.
+1. Hover cursor over a user message and click on the `message-actions` then select `Attach Message to GitLab Issue` on MM.
 2. In the `Attach Message to GitLab Issue` modal, select the desired Gitlab issue to attach the message and click on `Attach` button on MM.
 3. Navigate to the desired issue on the Gitlab.
 
