@@ -34,24 +34,24 @@ steps_hashed: null
 
 **Step 1**
 
-1. Revoke the OAuth token for your app from the connectd gitlab account.
+1. Revoke the OAuth token for your app from the connected gitlab account.
 2. Navigate to MM and click on the refresh button in the LHS of gitlab.
 3. Open the DM from Gitlab bot.
 
 **Step 2**
 
-1. Revoke the OAuth token for your app from the connectd gitlab account.
+1. Revoke the OAuth token for your app from the connected gitlab account.
 2. Navigate to MM and refresh the page.
 3. Open the DM from Gitlab bot.
 
 **Step 3**
 
-1. Revoke the OAuth token for your app from the connectd gitlab account.
+1. Revoke the OAuth token for your app from the connected gitlab account.
 2. Navigate to MM and enter any slash command that fetches the data from the gitlab.
 3. Open the DM from Gitlab bot.
 
 **Expected**
 
-All the Gitlab icons in the LHS should be removed and the user should get a message in the DM from Gitlab bot that the account has been disconnected on MM.
-After step 2, all the Gitlab icons in the LHS should be removed and the user should get a message in the DM from Gitlab bot that the account has been disconnected on MM.
-After step 3, all the Gitlab icons in the LHS should be removed and the user should get a message in the DM from Gitlab bot that the account has been disconnected on MM. 
+All the Gitlab icons in the LHS should be removed and the user should get a message in the DM from Gitlab bot that their account has been disconnected on MM.
+After step 2, all the Gitlab icons in the LHS should be removed and the user should get a message in the DM from Gitlab bot that their account has been disconnected on MM.
+After step 3, all the Gitlab icons in the LHS should be removed and the user should get a message in the DM from Gitlab bot that their account has been disconnected on MM. 
