@@ -34,12 +34,12 @@ steps_hashed: null
 
 **Step 1**
 
-1. Connect the Gitlab account to your MM account.
+1. Connect the MM account to your Gitlab account by running the slash command `/zoom connect`.
 2. Hover cursor over the icons in the LHS of Gitlab on MM.
 
 **Step 2**
 
-1. Connect the Gitlab account to your MM account.
+1. Connect the MM account to your Gitlab account by running the slash command `/zoom connect`.
 2. Click on the `assigned merge request` button in the LHS of Gitlab on MM.
 
 **Expected**
