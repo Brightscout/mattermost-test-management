@@ -35,8 +35,8 @@ steps_hashed: null
 **Step 1**
 
 1. Connect your MM account to Github account.
-2. Trigger the desired event e.g discussion, issue, pulls, etc on the connected github repo/organization and create notification in the subscribed channel or DM/GM on MM.
-3. Navigate to MM and run the `/github todo` command in the desired channel or DM/GM on MM.
+2. Create a notification for any desired event e.g. discussion, issue, pulls, etc on GitHub.
+3. Navigate to MM and run the `/github todo` command in any desired channel or DM/GM on MM.
 
 **Step 2**
 
@@ -46,17 +46,17 @@ steps_hashed: null
 **Step 3**
 
 1. Merge any desiered open PR on the connected account on github.
-2. Run the `/github todo` command in the desired channel or DM/GM on MM.
+2. Run the `/github todo` command in any desired channel or DM/GM on MM.
 
 **Step 4**
 
 1. Read any desired unread message on the connected account on github.
-2. Run the `/github todo` command in the desired channel or DM/GM on MM.
+2. Run the `/github todo` command in any desired channel or DM/GM on MM.
 
 **Step 5**
 
 1. Approve any desired pending requested review on the connected account on github.
-2. Run the `/github todo` command in the desired channel or DM/GM on MM.
+2. Run the `/github todo` command in any desired channel or DM/GM on MM.
 
 **Step 6**
 
