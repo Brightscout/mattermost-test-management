@@ -1,6 +1,6 @@
 ---
 # (Required) Ensure all values are filled up
-name: "Add comment to a gitlab issue from the `Attach Message to GitLab Issue` option in the context menu on MM."
+name: "Add comment to a gitlab issue from the `Attach to GitLab Issue` option in the context menu on MM."
 status: Active
 priority: Normal
 folder: Context-menu-feature
