@@ -34,16 +34,16 @@ steps_hashed: null
 
 **Step 1**
 
-1. Connect your Gitlab account to MM account.
+1. Connect your MM account to Gitlab account.
 2. In the desired channel or DM/GM create subscriptions for `issue_comments` and `merge_request_comments` by using the slash command `/gitlab subscriptions add <owner>/<repo>` on MM.
-3. Navigate to the subscribed repo and add comment with an attachment of an image to any desired `issue` or `merge request` on Gitlab.
+3. Navigate to the subscribed repository on Gitlab and add an image in the comments to any desired `issue` or `merge request` on Gitlab.
 4. Navigate to the desired channel or DM/GM on MM.
 
 **Step 2**
 
-1. Connect your Gitlab account to MM account.
+1. Connect your MM account to Gitlab account.
 2. In the desired channel or DM/GM create subscriptions for `issue_comments` and `merge_request_comments` by using the slash command `/gitlab subscriptions add <owner>/<repo>` on MM.
-3. Navigate to the subscribed repo and add comment with an embedded image to any desired `issue` or `merge request` on Gitlab.
+3. Navigate to the subscribed repository on Gitlab and add an embedded image in the comments to any desired `issue` or `merge request` on Gitlab.
 4. Navigate to the desired channel or DM/GM on MM.
 
 **Expected**
