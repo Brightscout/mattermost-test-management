@@ -34,7 +34,7 @@ steps_hashed: null
 
 **Step 1**
 
-1. Hover cursor over a user message and click on the `message-actions` then select `Attach Message to GitLab Issue` on MM.
+1. Hover cursor over a user message and click on the `message-actions` then select `Attach to GitLab Issue` on MM.
 2. In the `Attach Message to GitLab Issue` modal, select the desired Gitlab issue to attach the message and click on `Attach` button on MM.
 3. Navigate to the desired issue on the Gitlab.
 
