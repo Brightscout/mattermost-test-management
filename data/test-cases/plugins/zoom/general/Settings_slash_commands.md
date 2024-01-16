@@ -34,15 +34,15 @@ steps_hashed: null
 
 **Step 1**
 
-1. Enter the slash command `/zoom` in the chat in any desired channel or DM/GM on MM.
+1. Enter and run the slash command `/zoom` in the chat in any desired channel or DM/GM on MM.
 
 **Step 2**
 
-1. Enter the slash command `/zoom settings <command>` in the chat in any desired channel or DM/GM on MM.
+1. Enter and run the slash command `/zoom settings <command>` in the chat in any desired channel or DM/GM on MM.
 
 **Step 3**
 
-1. Enter the slash command `/zoom settings` in the chat in any desired channel or DM/GM on MM.
+1. Enter and run the slash command `/zoom settings` in the chat in any desired channel or DM/GM on MM.
 
 **Expected**
 
