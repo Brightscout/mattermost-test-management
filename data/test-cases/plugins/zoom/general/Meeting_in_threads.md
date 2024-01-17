@@ -35,19 +35,19 @@ steps_hashed: null
 **Step 1**
 
 1. Connect the Zoom account to you MM account.
-2. Enable the CRT(if disabled) in the settings on MM and open the `threads` from the LHS on MM.
+2. Enable the CRT(if disabled) in the system console on MM and open the `threads` from the LHS on MM.
 3. Select any desried thread from the list of `followed threads` and run the slash command `/zoom start <meeting topic>` in the thread on MM.
 
 **Step 2**
 
 1. Connect the Zoom account to your MM account.
-2. Enable the CRT(if disabled) in the settings on MM and open the `threads` from the LHS on MM.
+2. Enable the CRT(if disabled) in the system console on MM and open the `threads` from the LHS on MM.
 3. Select any desired thread from the list of `followed threads` and click on the Zoom icon in the app bar on MM.
 
 **Step 3**
 
 1. Connect the Zoom account to your MM account.
-2. Enable the CRT(if disabled) in the settings on MM and open the `threads` from the LHS on MM.
+2. Enable the CRT(if disabled) in the system console on MM and open the `threads` from the LHS on MM.
 3. Select any desired thread from the list of `followed threads` in which a meeting is already created and create a new meeting with either slash command `/zoom start <meeting topic>` or by clicking the Zoom icon in the app bar on MM.
 
 **Expected**

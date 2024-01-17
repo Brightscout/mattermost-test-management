@@ -48,8 +48,7 @@ steps_hashed: null
 
 **Step 3**
 
-1. Create a new meeting by clicking on the `Create new meeting` option in the slack attachment for Zoom meeting in any desired channel or DM/GM on MM.
-2. Navigate to the desired channel or DM/GM on MM without ending the meeting on Zoom and click on the `Create new meeting` option on the existing slack attachment for Zoom meeting.
+1. After step 2, again navigate to the desired channel or DM/GM on MM without ending the meeting on Zoom and click on the `Create new meeting` option on the existing slack attachment for Zoom meeting.
 
 **Expected**
 
