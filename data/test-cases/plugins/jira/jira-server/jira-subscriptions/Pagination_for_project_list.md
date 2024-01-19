@@ -1,6 +1,6 @@
 ---
 # (Required) Ensure all values are filled up
-name: "The Projects list in the Jira subscription page should sustain the pagination for projects more than 50 in the list."
+name: "The Projects list should sustain the pagination for all the projects in the list."
 status: Active
 priority: Normal
 folder: Jira-subscriptions
