@@ -1,6 +1,6 @@
 ---
 # (Required) Ensure all values are filled up
-name: "Settings slash command should not entertain any command after `/zoom settings`"
+name: "Settings slash command should not accept any arguments after `/zoom settings`"
 status: Active
 priority: Normal
 folder: General
@@ -34,18 +34,18 @@ steps_hashed: null
 
 **Step 1**
 
-1. Enter and run the slash command `/zoom` in the chat in any desired channel or DM/GM on MM.
+1. Enter and run the slash command `/zoom` in any desired channel or DM/GM on MM.
 
 **Step 2**
 
-1. Enter and run the slash command `/zoom settings <command>` in the chat in any desired channel or DM/GM on MM.
+1. Enter and run the slash command `/zoom settings <command>` in any desired channel or DM/GM on MM.
 
 **Step 3**
 
-1. Enter and run the slash command `/zoom settings` in the chat in any desired channel or DM/GM on MM.
+1. Enter and run the slash command `/zoom settings` in any desired channel or DM/GM on MM.
 
 **Expected**
 
-The suggested list of the commands should show the following suggestions in the desried channel or DM/GM on MM, `start[meeting topic]`, `connect`, `disconnect`, `settings` and `help`.
+The suggested list of the commands should show the following suggestions in the desried channel or DM/GM on MM, `start [meeting topic]`, `connect`, `disconnect`, `settings` and `help`.
 After step 2, the user should get a message regarding the `unknown action` in the desired channel or DM/GM on MM.
 After step 3, the user should get the message regarding the use of Personal Meeting ID in the desired channel or DM/GM on MM.
