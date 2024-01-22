@@ -37,7 +37,7 @@ steps_hashed: null
 1. Connect you MM account to your Jira account.
 2. In the desired channel or DM/GM run the slash command `/jira subscribe` or `/jira subscribe edit` on MM.
 3. Click on the `Create Subscription` button in the `Jira subscriptions` page on MM.
-4. Select and enter the desired details in the fields `Subscription Name`, `Project`, `Events` and `Issue Type` in the `Jira subscriptions` page on MM.
+4. Select and enter the desired details in the fields `Subscription Name`, `Project`, `Events` and `Issue Type`.
 5. Click on `+ Add Filter` button in the `Jira subscriptions` page on MM.
 6. Select the filter type as `Status`, values as `Include` and desired `Status Type`.
 7. Click on Add subscription.
