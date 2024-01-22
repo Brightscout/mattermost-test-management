@@ -1,6 +1,6 @@
 ---
 # (Required) Ensure all values are filled up
-name: "Getting DM notifications on MM for mentioning and assigning the user on Github."
+name: "Added Labels/Milestones on the PRs/issues are displayed with proper UI on MM"
 status: Active
 priority: Normal
 folder: Notifications
@@ -52,7 +52,7 @@ steps_hashed: null
 
 **Step 4**
 
-1. After step 2, Navigate to Github and update the added `MIlestones` on the desired PR/issue in the desried repository.
+1. After step 2, Navigate to Github and update the added `Milestones` on the desired PR/issue in the desried repository.
 2. Navigate to MM and open the RHS for the `Pull Request` or `Issues` respectively on MM.
 
 **Expected**

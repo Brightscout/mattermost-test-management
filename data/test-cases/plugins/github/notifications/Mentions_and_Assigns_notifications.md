@@ -47,13 +47,13 @@ steps_hashed: null
 **Step 3**
 
 1. Connect your MM account to your Github account and create a weebhook to a desired repository/organization on MM.
-2. Assign the connected user in the `Pull Request` of the desired repository on `Github` from an different account.
+2. Assign any desired `Pull Request` to the connected user from a different user.
 3. Navigate to the DM chat of Github on MM.
 
 **Step 4**
 
 1. Connect your MM account to your Github account and create a weebhook to a desired repository/organization on MM.
-2. Assign the connected user in the `Issues` of the desired repository on `Github` from an different account.
+2. Assign any desired `Issue` to the connected user from a different user.
 3. Navigate to the DM chat of Github on MM.
 
 **Expected**
