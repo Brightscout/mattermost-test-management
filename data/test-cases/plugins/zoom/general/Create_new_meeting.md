@@ -52,6 +52,6 @@ steps_hashed: null
 
 **Expected**
 
-The user should get redirected to the new Zoom meeting or should get a slack attachment for selecting the meeting ID in the desired channel or DM/GM on MM.
-After step 2, the user should get redirected to the new Zoom meeting or should get a slack attachment for selecting the meeting ID in the desired channel or DM/GM on MM.
-After step 3, the user should get redirected to the new Zoom meeting or should get a slack attachment for selecting the meeting ID in the desired channel or DM/GM on MM.
+The user should get redirected to the new Zoom meeting or should get a slack attachment if the Zoom meeting setting is set to `Ask` for selecting the meeting ID in the desired channel or DM/GM on MM.
+After step 2, the user should get redirected to the new Zoom meeting or should get a slack attachment if the Zoom setting is set to `Ask` for selecting the meeting ID in the desired channel or DM/GM on MM.
+After step 3, the user should get redirected to the new Zoom meeting or should get a slack attachment if the Zoom setting is set to `Ask` for selecting the meeting ID in the desired channel or DM/GM on MM.
