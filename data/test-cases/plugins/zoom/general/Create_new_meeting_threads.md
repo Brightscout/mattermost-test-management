@@ -42,6 +42,10 @@ steps_hashed: null
 6. Navigate to the desired thread without ending the meeting and again create a meeting using either the slash command `/zoom start<meeting topic>` or clicking on the zoom icon in the app bar on MM.
 7. Click on the `Create new meeting` option in the slack attahcment in the desired thread.
 
+**Expected**
+
+The user should get directed to the existing meeting on the Zoom.
+
 **Step 2**
 
 1. Connect your Zoom account to your MM account.
@@ -52,20 +56,32 @@ steps_hashed: null
 6. Navigate to the desired thread without ending the meeting and again create a meeting using either the slash command `/zoom start<meeting topic>` or clicking on the zoom icon in the app bar on MM.
 7. Click on the `Create new meeting` option in the slack attahcment in the desired thread.
 
+**Expected**
+
+The user should get directed to a new meeting on Zoom.
+
 **Step 3**
 
 1. Connect your Zoom account to your MM account.
 2. Enable the CRT from the settings on MM and open the threads from the LHS on MM.
 3. Select any desired thread from the `followed threads` list on MM.
-4. Set the zoom setting to `Ask everytime` for meeting using the slash command `/zoom settings`.
+4. Set the zoom setting to `Ask every time` for meeting using the slash command `/zoom settings`.
 5. Create a meeting in the desired thread using either the slash command `/zoom start<meeting topic>` or clicking on the zoom icon in the app bar on MM.
 6. Navigate to the desired thread without ending the meeting and again create a meeting using either the slash command `/zoom start<meeting topic>` or clicking on the zoom icon in the app bar on MM.
 7. Click on the `Create new meeting` option in the slack attahcment in the desired thread.
+
+**Expected**
+
+The user should get the slack attachment regarding to choose the type of meeting in the desired thread on MM.
 
 **Step 4**
 
 1. After step 1, again navigate to the desired thread on MM.
 2. Click on the `Create new meeting` option on the existing slack attachment in the desired thread.
+
+**Expected**
+
+The user should get redirected to the existing meeting on Zoom.
 
 **Step 5**
 
@@ -74,8 +90,4 @@ steps_hashed: null
 
 **Expected**
 
-The user should get directed to the existing meeting on the Zoom.
-After step 2, the user should get directed to a new meeting on Zoom.
-After step 3, the user should get the slack attachment regarding to choose the type of meeting in the desired thread on MM.
-After step 4, the user should get redirected to the existing meeting on Zoom.
-After step 5, the user should get directed to a new meeting on Zoom.
+The user should get directed to a new meeting on Zoom.
