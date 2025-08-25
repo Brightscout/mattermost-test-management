@@ -39,12 +39,20 @@ steps_hashed: null
 3. Click on the `Create Subscription` button in the `Jira Subscriptions` page on MM.
 4. Click on the `Project` dropdown list in the `Jira Subscriptions` page on MM and Scroll down the list.
 
+**Expected**
+
+The list should be able to properly fetch and display all the projects added to the Jira account on MM.
+
 **Step 2**
 
 1. Connect your MM account to your Jira account with less than 50 projects added.
 2. Run the slash command `/jira subscribe edit` or `/jira subscribe` in any desired channel or DM/GM on MM.
 3. Click on the `Create Subscription` button in the `Jira Subscriptions` page on MM.
 4. Click on the `Project` dropdown list in the `Jira Subscriptions` page on MM and Scroll down the list.
+
+**Expected**
+
+The list should be able to properly fetch and display all the projects added to the Jira account on MM.
 
 **Step 3**
 
@@ -55,6 +63,4 @@ steps_hashed: null
 
 **Expected**
 
-The list should be able to properly fetch and display all the projects added to the Jira account on MM.
-After step 2, The list should be able to properly fetch and display all the projects added to the Jira account on MM.
-After step 3, The list should be sorted in ascending order with respect to the projects added to the Jira account on MM.
+The list should be sorted in ascending order with respect to the projects added to the Jira account on MM.
