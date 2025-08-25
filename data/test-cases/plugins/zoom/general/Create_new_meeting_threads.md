@@ -66,7 +66,7 @@ The user should get directed to a new meeting on Zoom.
 2. Enable the CRT from the settings on MM and open the threads from the LHS on MM.
 3. Select any desired thread from the `followed threads` list on MM.
 4. Set the zoom setting to `Ask every time` for meeting using the slash command `/zoom settings`.
-5. Create a meeting in the desired thread using either the slash command `/zoom start<meeting topic>` or clicking on the zoom icon in the app bar on MM.
+5. Create a meeting in the desired thread using either the slash command `/zoom start <meeting topic>` or clicking on the zoom icon in the app bar on MM.
 6. Navigate to the desired thread without ending the meeting and again create a meeting using either the slash command `/zoom start<meeting topic>` or clicking on the zoom icon in the app bar on MM.
 7. Click on the `Create new meeting` option in the slack attahcment in the desired thread.
 
